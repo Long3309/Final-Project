@@ -7,4 +7,8 @@
 4. 21520352 - Trần Xuân Minh
 5. 21520800 - Lê Thu Hà
 ---
+<<<<<<< HEAD
 ![alt text](imgs/students.png)
+=======
+# Phần 1: Tìm hiểu và phân tích dữ liệu trong folder `Education Dataset-v2`
+>>>>>>> 5e562fe9f5659714c01e9cb8d6251bc973eb574c
