@@ -7,3 +7,4 @@
 4. 21520352 - Trần Xuân Minh
 5. 21520800 - Lê Thu Hà
 ---
+![alt text](imgs/students.png)
