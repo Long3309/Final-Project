@@ -1,4 +1,4 @@
-# Đồ án môn học "Phân tích dữ liệu và Ứng dụng"
+# Đồ án môn học "Khai thác dữ liệu và Ứng dụng"
 ## Nhóm 10
 **Danh sách sinh viên thực hiện:**
 1. 19522525 - Nguyễn Văn Vinh
