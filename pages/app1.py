@@ -26,7 +26,7 @@ tenmonhoc = df_danhmucMH["Tên MH (Tiếng Việt)"].values[0]
 fig = px.histogram(df_diemThiMH, x = "Diem_HP",
                    color="NamHoc",
                    title= f"Thông tin điểm thi qua từng năm của môn học `{tenmonhoc}`")
-st.plotly_chart(fig,use_container_width=False)
+st.plotly_chart(fig,use_container_width=True)
 
 # Hiển thị các data thông tin về môn học được lựa chọn
 st.dataframe(df_danhmucMH)
