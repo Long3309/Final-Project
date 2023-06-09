@@ -12,8 +12,8 @@ def load_data():
     st.dataframe(diemThi, use_container_width=True)
 
     st.header("Danh mục môn học")
-    danhmucMH = pd.read_csv("data.csv")
-    danhmucMH.drop(["Unnamed: 0", "Số TT"], axis=1, inplace=True)
+    danhmucMH = pd.read_csv("danhmucMH.csv")
+    danhmucMH.drop(["Unnamed: 0"], axis=1, inplace=True)
     st.dataframe(danhmucMH, use_container_width=True)
 
     st.header("Tóm tắt môn học")

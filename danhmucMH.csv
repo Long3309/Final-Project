@@ -1,0 +1,1135 @@
+MaMH,Tên MH (Tiếng Việt),Tên MH (Tiếng Anh),Còn mở lớp,Đơn vị quản lý chuyên môn,Loại MH,Mã cũ,Mã môn học tương đương,Mã môn học tiên quyết,Mã môn học trước,Số TCLT,Số TCTH
+ACCT3603,Hệ thống thông tin kế toán,Accounting Information systems,True,HTTT,CN,,,,,3.0,0.0
+ACCT5123,Hoạch định nguồn lực doanh nghiệp,Enterprise Resource Planning,True,HTTT,CSN,,,,,3.0,0.0
+ADENG1,Tiếng Anh tăng cường 1,Intensive English 1,True,HTTT,ĐC,ENG11,ENG04,,,0.0,0.0
+ADENG2,Tiếng Anh tăng cường 2,Intensive English 2,True,HTTT,ĐC,ENG12,,,,0.0,0.0
+ADENG3,Tiếng Anh tăng cường 3,Intensive English 3,True,HTTT,ĐC,,ENG05,ADENG2,,0.0,0.0
+ADENG4,Tiếng Anh tăng cường 4,Intensive English 4,True,HTTT,ĐC,,ENG03,ADENG3,,0.0,0.0
+AI001,Giới thiệu ngành Trí tuệ nhân tạo,Introduction to AI programs,True,KHMT,ĐC,,"CS005
+IE005
+IS005
+SE005
+CE005
+NT005
+NT015
+EC005
+DS005",,,1.0,0.0
+BOQC1,Nhập môn máy tính lượng tử,Basic of Quantum Computer,True,BMTL,BT,,,,,0.0,0.0
+BUS1125,Khởi nghiệp kinh doanh,Entrepreneurship,True,PĐTĐH,CN,,,,,2.0,1.0
+CARC1,Kiến trúc máy tính,Computer Architecture,False,KTMT,ĐC,,IT006,,,3.0,0.0
+CE005,Giới thiệu ngành Kỹ Thuật Máy tính,Introduction to Computer Engineering,True,KTMT,ĐC,,"CS005
+IE005
+IS005
+SE005
+NT005
+NT015
+EC005
+DS005
+AI001",,,1.0,0.0
+CE101,Lý thuyết mạch điện,Theory of electrical circuits,False,KTMT,CSN,,CE121,,,4.0,0.0
+CE102,Hệ thống số,Digital systems,False,KTMT,CN,,PH002,,,3.0,1.0
+CE103,Vi xử lý-vi điều khiển,Microprocessors and microcontrollers,True,KTMT,CSN,,,,IT006,3.0,1.0
+CE104,Các thiết bị và mạch điện tử,Electronic devices and circuits,False,KTMT,CSN,,CE124,,"PH001
+CE101",3.0,0.0
+CE105,Xử lý tín hiệu số,Digital signal processing,True,KTMT,CSN,CE205,CE205,,"MA001
+MA002
+MA003",3.0,1.0
+CE106,Thiết kế vi mạch với HDL,Digital Circuit Design with HDL,False,KTMT,CN,,CE221,,,3.0,1.0
+CE107,Hệ thống nhúng,Embedded systems,False,KTMT,CSN,,CE224,,"IT001
+IT006
+CE103",3.0,1.0
+CE108,Hệ điều hành nâng cao,Advanced operating systems,False,KTMT,CN,,,,,3.0,0.0
+CE109,Lập trình nhúng căn bản,Introduction to embedded-system programming,False,KTMT,CN,,CE211,,,2.0,1.0
+CE110,Lập trình hệ thống với Java,System Programming with Java,False,KTMT,CN,,CE315,,,3.0,1.0
+CE111,Kiến trúc máy tính nâng cao,Advanced computer architecture,False,KTMT,CĐTN,,,,IT006,2.0,1.0
+CE112,Đồ án môn học thiết kế mạch,Circuit design project,False,KTMT,ĐA,,CE201,,,0.0,2.0
+CE113,Điều khiển tự động,Automatic Control,False,KTMT,CN,,CE212,,,3.0,0.0
+CE114,Lập trình trên thiết bị di động,Mobile device application development,False,KTMT,CN,,NT118,,,2.0,1.0
+CE115,Thiết kế mạng,Network design,False,KTMT,CN,,NT113,,,3.0,1.0
+CE116,Đồ án môn học ngành KTMT,Information engineering project,False,KTMT,ĐA,,CE206,,,0.0,2.0
+CE117,Thực hành điện- điện tử,Basic electrical and electronic laboratory,False,KTMT,CSN,,CE124,,"PH001
+CE101",0.0,1.0
+CE118,Thiết kế luận lý số,Digital logic design,True,KTMT,CSN,,,,PH002,3.0,1.0
+CE119,Thực hành Kiến trúc máy tính,Computer architecture laboratory,True,KTMT,CSN,,,,PH002,0.0,1.0
+CE121,Lý thuyết mạch điện,Theory of electrical circuits,True,KTMT,CSN,,CE101,,,3.0,1.0
+CE124,Các thiết bị và mạch điện tử,Electronic devices and circuits,True,KTMT,CSN,,CE104,,CE121,3.0,1.0
+CE201,Đồ án 1,Project 1,True,KTMT,ĐA,,,,"PH002
+CE103
+CE121
+CE224",0.0,2.0
+CE202,An toàn mạng máy tính,Network security,False,KTMT,CN,,NT101,,,3.0,0.0
+CE203,Điều khiển tự động nâng cao,Advanced automatic control,False,KTMT,CĐTN,,CE317,,,3.0,0.0
+CE204,Thiết kế và lập trình Web,Web design and programming,False,KTMT,CN,CE305,,,,3.0,0.0
+CE205,Xử lý tín hiệu số,Digital signal processing,False,KTMT,CN,,,,,3.0,1.0
+CE206,Đồ án 2,Project 2,True,KTMT,ĐA,,CE116,,"PH002
+CE103
+CE201
+CE121",0.0,2.0
+CE211,Lập trình nhúng căn bản,Introduction to embedded-system programming,False,KTMT,CN,,CE232,,CE107,3.0,1.0
+CE212,Điều khiển tự động,Automatic control,True,KTMT,CN,CE113,,,"MA003
+MA006",3.0,1.0
+CE213,Thiết kế hệ thống số với HDL,Digital System Design with HDL,True,KTMT,CN,,,,"PH002
+CE118",3.0,1.0
+CE219,Tương tác người - máy,Human-computer interaction,False,KTMT,CN,,CE405,,,3.0,0.0
+CE221,Thiết kế vi mạch với HDL,Digital circuit design with HDL,False,KTMT,CN,,CE213,,"PH002
+CE118",3.0,1.0
+CE222,Thiết kế vi mạch số,Digital IC design,True,KTMT,CN,,CE302,,CE118,3.0,1.0
+CE224,Thiết kế hệ thống nhúng,Embedded System Design,True,KTMT,CN,,,,CE103,3.0,1.0
+CE232,Thiết kế hệ thống nhúng không dây,Wireless Embedded Systems Design,True,KTMT,CN,,,,CE224,3.0,1.0
+CE233,Kỹ thuật Robot,Robot principle and Design,True,KTMT,CN,,,,MA003,3.0,1.0
+CE301,Hệ thống chứng thực số,Digital identification systems,False,KTMT,CN,,,,,3.0,0.0
+CE302,Thiết kế vi mạch,Circuits design,False,KTMT,CN,,CE222,,,2.0,1.0
+CE303,Robot công nghiệp,Industrial robotics,True,KTMT,CN,,,,"MA001
+MA002
+CE101
+CE212
+CE107",3.0,0.0
+CE3031,Công nghệ cảm biến,Sensor Technologies,True,KTMT,CN,,,,"MA006
+MA003
+CE121",3.0,1.0
+CE304,Robot công nghiệp,Industrial Robotics,True,KTMT,CNTC,,,,"CE121
+CE224
+MA001
+MA002",3.0,1.0
+CE306,Thị giác máy tính,Computer vision,False,KTMT,CN,,,,,3.0,0.0
+CE312,Hệ thống thời gian thực,Real-time systems,True,KTMT,CN,,,,"IT006
+IT007
+CE103
+CE211",3.0,0.0
+CE313,Xử lý song song và hệ thống phân tán,Parallel processing and distributed systems,True,KTMT,CN,CE311,,,"IT001
+IT006",3.0,0.0
+CE314,Trình biên dịch,Principles of compiler design,True,KTMT,CN,,,,"CE103
+MA004",3.0,0.0
+CE315,Lập trình hệ thống với Java,System programming with Java,True,KTMT,CN,CE110,,,,2.0,1.0
+CE316,Logic mờ và ứng dụng,Fuzzy logic and applications,True,KTMT,CN,,CS405,,MA004,3.0,0.0
+CE317,Điều khiển tự động nâng cao,Advanced automatic control,True,KTMT,CN,CE203,,,"MA001
+MA002
+MA003
+MA004
+CE101
+CE104
+CE212",3.0,0.0
+CE318,Trình biên dịch,Compiler,True,KTMT,CNTC,,CE314,,"IT006
+IT007",3.0,1.0
+CE319,Logic mờ và ứng dụng,Fuzzy Logic and Its Applications,True,KTMT,CNTC,,,,MA004,3.0,1.0
+CE321,Kỹ thuật chế tạo vi mạch,Integrated circuit fabrication,True,KTMT,CN,CE404,,,CE222,3.0,0.0
+CE322,Thiết kế vi mạch hỗn hợp,Mixed-signal integrated circuit design,True,KTMT,CN,,,,CE222,2.0,1.0
+CE323,Kĩ thuật thiết kế mạch in,Printed circuit board design,True,KTMT,CN,,,,"CE101
+CE104
+CE103",2.0,1.0
+CE324,Thiết kế vi mạch tương tự,Analog integrated circuit design,True,KTMT,CN,,,,"CE104
+CE221",2.0,1.0
+CE325,Thiết kế dựa trên vi xử lý,Microprocessor-based system design,True,KTMT,CN,,CE335,,"IT001
+IT006
+IT003",2.0,1.0
+CE326,Tự động hóa thiết kế vi mạch,Circuit-design automation,True,KTMT,CN,,,,CE221,2.0,1.0
+CE327,Tối ưu hóa dựa trên FPGA,FPGA-based optimization,True,KTMT,CN,,CE337,,"CE118
+IT006
+CE221",3.0,0.0
+CE331,Kỹ thuật chế tạo vi mạch,Integrated Circuit Fabrication,True,KTMT,CNTC,,CE321,,CE222,3.0,1.0
+CE332,Thiết kế vi mạch hỗn hợp,Mixed Signal Integrated Circuit Design,True,KTMT,CNTC,,CE322,,CE222,3.0,1.0
+CE333,Tiếng Anh chuyên ngành Kỹ thuật Máy tính,Technical English for Computer Engineering,True,KTMT,CN,,,,"ENG03
+IT007",4.0,0.0
+CE334,Thiết kế vi mạch tương tự,Analog Integrated Circuit Design,True,KTMT,CNTC,,CE324,,"CE124
+CE213",3.0,1.0
+CE335,Thiết kế dựa trên vi xử lý,Microprocessor-based Design,True,KTMT,CNTC,,CE325,,"IT006
+IT003
+IT001",3.0,1.0
+CE336,Tự động hóa thiết kế vi mạch,Electronic Design Automation,True,KTMT,CNTC,,CE326,,"CE118
+CE213",3.0,1.0
+CE337,Tối ưu hóa dựa trên FPGA,FPGA-optimized Design,True,KTMT,CNTC,,CE327,,"IT006
+CE118
+CE213",3.0,1.0
+CE338,Hệ thống thời gian thực,Real-time Systems,True,KTMT,CNTC,,,,"IT006
+IT007",3.0,1.0
+CE339,Công nghệ IoT và Ứng dụng,IoT Technology and Its Applications,True,KTMT,CN,,,,"CE103
+CE224",3.0,1.0
+CE340,Trí tuệ nhân tạo cho hệ thống nhúng,Artificial Intelligence for Embedded System,True,KTMT,CN,,,,,3.0,1.0
+CE341,Lập trình nhúng trên các thiết bị di động,Embedded Programming on Mobility Devices,True,KTMT,CN,,,,,3.0,1.0
+CE342,Hệ thống thông minh,Smart System,True,KTMT,CN,,,,CE224,3.0,1.0
+CE343,Trí tuệ nhân tạo cho xe tự hành,Artificial Intelligence for Autonomous Vehicles,True,KTMT,CN,,,,,3.0,1.0
+CE344,Trí tuệ nhân tạo cho IoT,Artificial Intelligence for IoT,True,KTMT,CN,,,,,3.0,1.0
+CE345,Kiến trúc IoT: Giao thức mạng và bảo mật,IoT architecture: Network protocol and security,True,KTMT,CN,,,,,3.0,1.0
+CE346,Thiết kế Antenna tích hợp cho thiết bị IoT,Antenna Design for IoT,True,KTMT,CN,,,,,3.0,1.0
+CE347,Điều khiển thông minh cho robot,Robot intelligent control,True,KTMT,CN,,,,MA003,3.0,1.0
+CE401,Kỹ thuật hệ thống máy tính,Computer system engineering,True,KTMT,CĐTN,,,,"IT006
+IT007",3.0,0.0
+CE402,Các hệ điều hành nhúng,Embedded operating systems,False,KTMT,CĐTN,,,,"IT007
+IT006
+CE107",3.0,1.0
+CE403,Thiết kế số,Digital design,False,KTMT,CĐTN,,,,"PH002
+IT006
+CE221",3.0,1.0
+CE404,Kỹ thuật chế tạo vi mạch,Integrated Circuit Fabrication,False,KTMT,CĐTN,,CE321,,,3.0,0.0
+CE405,Tương tác người máy,Human-computer interaction,True,KTMT,CĐTN,CE219,,,,3.0,0.0
+CE406,Tương tác người – Máy,Humans Computer Interaction,True,KTMT,CNTC,,,,CE103,3.0,1.0
+CE407,Đồ án chuyên ngành Hệ thống nhúng và Robot,Major Project on Embedded System and Robot Design,True,KTMT,CĐTN,,,,IT006,0.0,2.0
+CE408,Đồ án chuyên ngành Thiết kế vi mạch và phần cứng,Major Project on IC and Computer Hardware Design,True,KTMT,CĐTN,,,,"CE201
+CE206
+CE213",0.0,2.0
+CE409,Kỹ thuật thiết kế kiểm tra,ASIC Verification Methodology,True,KTMT,CN,,,,"CE118
+CE213",3.0,1.0
+CE410,Kỹ thuật hệ thống máy tính,Computer System Engineering,True,KTMT,CĐTN,,,,"CE118
+CE224",3.0,1.0
+CE411,Chuyên đề hệ thống nhúng và robot,Embedded systems and robotics,True,KTMT,CĐTN,,,,CE107,3.0,1.0
+CE412,Đồ án chuyên ngành Hệ thống nhúng và IoT,Major Project on Embedded System and IoT Design,True,KTMT,CN,,,,CE224,0.0,2.0
+CE413,Đồ án chuyên ngành Robotics và AI,Major Project on Robotcis and AI,True,KTMT,CN,,,,"CE103
+CE224",0.0,2.0
+CE421,Chuyên đề thiết kế vi mạch và phần cứng,IC and hardware designs,True,KTMT,CĐTN,,,,"CE118
+CE221
+CE222",3.0,1.0
+CE430,Lập trình hệ thống,System programming,True,KTMT,CNTC,,,,,3.0,1.0
+CE432,Thiết kế vi mạch hướng ASIC,ASIC Design,True,KTMT,CNTC,,,,"CE118
+CE213",3.0,1.0
+CE433,Thiết kế hệ thống SoC,System-on-Chip (SoC) Design,True,KTMT,CNTC,,,,"CE118
+IT006",3.0,1.0
+CE434,Chuyên đề thiết kế hệ vi mạch 1,Seminar on IC Design 1,True,KTMT,CNTC,,,,CE213,3.0,1.0
+CE435,Chuyên đề thiết kế hệ vi mạch 2,Topics on IC and Hardware Design 2,True,KTMT,CNTC,,,,CE213,3.0,1.0
+CE436,Xử lý tín hiệu số và ứng dụng,Digital Signal Processing and Application,True,KTMT,CNTC,,,,"MA003
+MA006",3.0,1.0
+CE437,Chuyên đề thiết kế hệ thống nhúng 1,Topics on Embedded systems and robot 1,True,KTMT,CNTC,,,,CE103,3.0,1.0
+CE438,Chuyên đề thiết kế hệ thống nhúng 2,Topics on Embedded systems and robot 2,True,KTMT,CNTC,,,,CE103,3.0,1.0
+CE439,Lập trình song song và hệ phân tán,Parallel Programming & Distributed Systems,True,KTMT,CNTC,,,,"IT001
+IT006",3.0,1.0
+CE440,Hệ thống định vị với ứng dụng AI,Indoor-and-Outdoor Localization System with AI Applications,True,KTMT,CN,,,,,3.0,1.0
+CE441,Chuyên đề thiết kế Robotics và AI 1,,True,KTMT,CN,,,,"CE103
+CE224",3.0,1.0
+CE442,Chuyên đề thiết kế Robotics và AI 2,,True,KTMT,CN,,,,"CE103
+CE224",3.0,1.0
+CE501,Thực tập doanh nghiệp,Internship,True,KTMT,TTTN,,,,,0.0,3.0
+CE502,Thực tập doanh nghiệp,Internship,True,KTMT,TTTN,,CE501,,,2.0,0.0
+CE505,Khóa luận tốt nghiệp,Thesis,True,KTMT,KLTN,,,,CE206,10.0,0.0
+CE506,Luận văn chuyên sâu đặc thù,Thesis,True,KTMT,CN,,,,,0.0,14.0
+CM101,Quản lý giao tiếp,Communication management,False,HTTT,ĐC,,,,,3.0,0.0
+CNBU001,Mạng máy tính,Networking,True,MMT&TT,CN,,,,,3.0,1.0
+CNBU002,Bảo mật,Security,True,MMT&TT,CN,,,,,3.0,1.0
+CNBU003,Dự án nghiên cứu,Computing Research Project,True,MMT&TT,CN,,,,,4.0,4.0
+CNBU004,Thiết kế và phát triển website,Website Design and Development,True,MMT&TT,CN,,,,,3.0,1.0
+CNBU005,Internet of Things,Internet of Things,True,MMT&TT,CN,,,,,3.0,1.0
+CNBU006,An toàn mạng máy tính,Network Security,True,MMT&TT,CN,,,,,3.0,1.0
+CNBU007,Pháp chứng kỹ thuật số,Forensics,True,MMT&TT,CN,,,,,3.0,1.0
+CNBU008,Quản lý an toàn thông tin,Information Security Management,True,MMT&TT,CN,,,,,3.0,1.0
+CNBU009,Thực tập,Internship,True,MMT&TT,TTTN,,,,,0.0,0.0
+CNET1,Mạng máy tính,Computer networks,False,MMT&TT,ĐC,,IT005,,,3.0,1.0
+CS003,Máy học nâng cao,Advanced machine learning,False,KHMT,CN,,CS315,,,3.0,0.0
+CS004,Máy học trong xử lý ngôn ngữ tự nhiên,Machine learning in NLP,False,KHMT,CN,,,,,3.0,0.0
+CS005,Giới thiệu ngành Khoa học Máy tính,Introduction to Computer Science programs,True,KHMT,ĐC,,"IE005
+IS005
+SE005
+CE005
+NT005
+NT015
+EC005
+DS005
+AI001",,,1.0,0.0
+CS013,Máy học nâng cao,Advanced machine learning,False,KHMT,CN,,CS315,,,3.0,1.0
+CS014,Máy học trong xử lý ngôn ngữ tự nhiên,Machine learning in NLP,False,KHMT,CN,,CS324,,,3.0,1.0
+CS019,Chuyên đề ứng dụng Trí tuệ nhân tạo,Applied artificial intelligence,False,KHMT,CN,,,,,4.0,0.0
+CS101,Nguyên lý và phương pháp lập trình,Principles and Techniques of Programming,False,KHMT,CN,,CS111,,,3.0,0.0
+CS102,Phân tích & thiết kế thuật toán,Design and analysis of algorithms,False,KHMT,CN,,CS112,,,3.0,0.0
+CS103,Cơ sở lập trình,Introduction to programming,False,KHMT,CN,,"CS111
+CS511
+SE330",,,4.0,0.0
+CS104,Nhập môn công nghệ phần mềm,Software engineering,False,KHMT,CN,,SE104,,,3.0,0.0
+CS105,Đồ họa máy tính,Computer graphics,True,KHMT,CSN,,CS113,,,3.0,1.0
+CS106,Trí tuệ nhân tạo,Artificial intelligence,True,KHMT,CSN,,,,IT003,3.0,1.0
+CS107,Các hệ cơ sở tri thức,Knowledge-Based Systems,False,KHMT,CN,,CS217,,,4.0,0.0
+CS108,Lý thuyết thông tin,Information theory,False,KHMT,CN,,NT104,,,3.0,0.0
+CS109,Máy học,Machine learning,False,KHMT,CN,,CS110,,,4.0,0.0
+CS110,Nhập môn công nghệ tri thức & máy học,Introduction to knowledge engineering and machine learning,True,KHMT,CSN,,CS114,,,3.0,1.0
+CS111,Nguyên lý và phương pháp lập trình,Principles and techniques of programming,True,KHMT,CSN,CS101,,,IT003,3.0,1.0
+CS1113,Khoa học máy tính I,Computer science 1,True,HTTT,ĐC,CSC11,,,,3.0,1.0
+CS112,Phân tích và thiết kế thuật toán,Design and analysis of algorithms,True,KHMT,CSN,,,,"IT001
+IT003",3.0,1.0
+CS113,Đồ họa máy tính và Xử lý ảnh,Computer Graphic and Digital Image Processing,True,KHMT,CSN,,CS105,,"IT001
+IT003",3.0,1.0
+CS114,Máy học,Machine learning,True,KHMT,CN,,DS102,,"IT001
+MA003
+MA004",3.0,1.0
+CS115,Toán cho Khoa học máy tính,Mathematics for Computer Science,True,KHMT,CN,,,,IT001,4.0,0.0
+CS116,Lập trình Python cho Máy học,Machine Learning with Python,True,KHMT,CN,,,,"IT001
+IT002",3.0,1.0
+CS117,Tư duy tính toán,Computational Thinking,True,KHMT,CN,,,,,3.0,1.0
+CS210,Xử lý ngôn ngữ tự nhiên nâng cao,Advanced natural language processing,False,KHMT,CN,,,,,4.0,0.0
+CS211,Trí tuệ nhân tạo nâng cao,Advanced artificial intelligence,True,KHMT,CN,,,,CS106,3.0,1.0
+CS212,Xử lý ngôn ngữ tự nhiên,Natural Language Processing,False,KHMT,CN,,,,,3.0,1.0
+CS213,Ngôn ngữ học máy tính,Computational linguistics,False,,CN,,CS226,,,4.0,0.0
+CS2133,Khoa học máy tính II,Computer science 2,True,HTTT,ĐC,CSC12,,,CS1113,3.0,1.0
+CS214,Biểu diễn tri thức và suy luận,Knowledge representation and reasoning,True,KHMT,CN,,,,,3.0,1.0
+CS217,Các hệ cơ sở tri thức,Knowledge-based systems,True,KHMT,CN,CS107,,,CS106,3.0,1.0
+CS221,Xử lý ngôn ngữ tự nhiên,Natural language processing,True,KHMT,CN,,,,"IT001
+MA003
+MA004",3.0,1.0
+CS222,Xử lý ngôn ngữ tự nhiên nâng cao,Advanced natural language processing,True,KHMT,CN,,,,"IT001
+MA003
+MA004",3.0,1.0
+CS223,Máy học nâng cao,Advanced machine learning,False,KHMT,CN,,CS315,,,3.0,1.0
+CS224,Máy học xử lý ngôn ngữ tự nhiên,Machine learning in NLP,False,KHMT,CN,,CS324,,,3.0,1.0
+CS225,Lập trình symbolic trong trí tuệ nhân tạo,Symbolic Programming in Artificial Intelligence,False,KHMT,CN,,CS314,,,4.0,0.0
+CS226,Ngôn ngữ học máy tính,Computational linguistics,True,KHMT,CN,CS213,,,,4.0,0.0
+CS227,Khai thác dữ liệu và ứng dụng,Data Mining and Applications,False,KHMT,CN,,CS313,,,3.0,1.0
+CS228,Máy học và ứng dụng,Machine learning and applications,False,KHMT,CN,,,,,3.0,1.0
+CS229,Ngữ nghĩa học tính toán,Computational Semantics,True,KHMT,CN,,,,CS221,3.0,1.0
+CS231,Nhập môn Thị giác máy tính,Introduction to Computer Vision,True,KHMT,CN,,,,,3.0,1.0
+CS232,Tính toán đa phương tiện,Introduction to Multimedia Computing,True,KHMT,CN,,,,,3.0,1.0
+CS233,Nhận dạng Thị giác,Visual Pattern Recognition,False,KHMT,CN,,,,,3.0,1.0
+CS2433,Lập trình C/C++,C/C++ programming,True,HTTT,CSN,,MSIS2433,,,3.0,1.0
+CS301,Chuyên đề nghiên cứu khoa học,Scientific Research Seminar,False,KHMT,CN,,,,,4.0,0.0
+CS302,Seminar,Seminar,True,KHMT,CN,,,,,3.0,0.0
+CS311,Kỹ thuật lập trình trí tuệ nhân tạo,Artificial intelligence programming techniques,True,KHMT,CN,,,,IT003,3.0,1.0
+CS312,Hệ thống đa tác tử,Multi-agent systems,True,KHMT,CN,,,,CS110,3.0,1.0
+CS313,Khai thác dữ liệu và ứng dụng,Data mining and applications,True,KHMT,CN,,,,"IT001
+IT003",3.0,1.0
+CS314,Lập trình symbolic trong trí tuệ nhân tạo,Symbolic programming in artificial intelligence,True,KHMT,CN,CS225,,,,3.0,1.0
+CS315,Máy học nâng cao,Advanced machine learning,True,KHMT,CN,CS013,CS223,,CS110,3.0,1.0
+CS316,Các hệ giải bài toán thông minh,Intelligent problem-solving systems,True,KHMT,CN,CS408,,,,3.0,1.0
+CS321,Ngôn ngữ học ngữ liệu,Corpus linguistics,True,KHMT,CN,,,,IT001,3.0,1.0
+CS322,Biểu diễn tri thức và ứng dụng,Knowledge representation and applications,False,KHMT,CN,,CS214,,CS212,4.0,0.0
+CS323,Các hệ thống hỏi-đáp,Question-answering systems,True,KHMT,CN,,,,CS221,3.0,1.0
+CS324,Máy học trong xử lý ngôn ngữ tự nhiên,Machine learning in NLP,True,KHMT,CN,CS004,CS224,,CS221,3.0,1.0
+CS325,Dịch máy,Machine translation,True,KHMT,CN,CS411,,,CS221,3.0,1.0
+CS326,Các kĩ thuật trong xử lý ngôn ngữ tự nhiên,Advanced techniques in natural language processing,True,KHMT,CN,CS407,,,CS221,3.0,1.0
+CS331,Thị giác máy tính nâng cao,Advanced Computer Vision,True,KHMT,CN,,,,,3.0,1.0
+CS332,Máy học trong Thị giác Máy tính,Machine Learning in Computer Vision,True,KHMT,CN,,,,,3.0,1.0
+CS333,Đồ họa game,Computer Graphics in Game,True,KHMT,CN,,,,,2.0,1.0
+CS334,Lập trình tính toán hình thức,Programming for formal computing,False,KHMT,CN,,,,,3.0,1.0
+CS335,Tìm Kiếm Ảnh và Video,Image and Video Search,True,KHMT,CNTC,,,,IT001,3.0,1.0
+CS336,Truy vấn thông tin đa phương tiện,Multimedia Information Retrieval,True,KHMT,CN,,,,,3.0,1.0
+CS3363,Tổ chức ngôn ngữ lập trình,Organization of programming languages,True,HTTT,ĐC,,MSIS207,,,3.0,1.0
+CS337,Xử lý âm thanh và tiếng nói,Speech and Audio Signal Processing,True,KHMT,CN,,,,IT003,3.0,1.0
+CS3373,Lập trình hướng đối tượng nâng cao cho môi trường windows,Advanced object-oriented programming for Windows,True,HTTT,CSN,,IEM5723,,,3.0,1.0
+CS338,Nhận dạng,Pattern Recognition,True,KHMT,CN,,,,,3.0,1.0
+CS339,Xử lý văn bản Y khoa,Natural language processing with health focus,True,KHMT,CNTC,,,,,3.0,1.0
+CS3423,Cấu trúc tập tin,File structure,True,HTTT,CSN,,CS4153,,,3.0,1.0
+CS3443,Hệ thống máy tính,Computer Systems,True,HTTT,CSN,,,,,3.0,0.0
+CS351,Chuyên đề NCKH 1,Scientific Research 1,False,KHMT,CN,,,,,4.0,0.0
+CS3513,Phương pháp số cho máy tính kỹ thuật số,Numerical methods for digital computers,False,HTTT,CNTC,,,,,3.0,0.0
+CS352,Chuyên đề NCKH 2,Scientific Research 2,False,KHMT,CN,,,,,4.0,0.0
+CS3613,Cơ sở tính toán,Theoretical foundations of computing,True,HTTT,CNCS,,STAT3013,,,3.0,1.0
+CS3653,Toán rời rạc cho máy tính,Discrete Mathematics for computer,True,HTTT,ĐC,,,,MATH2144,3.0,0.0
+CS371,Seminar chuyên đề 1,Seminar 1,False,KHMT,CN,,,,,2.0,0.0
+CS372,Seminar chuyên đề 2,Seminar 2,False,KHMT,CN,,,,,2.0,0.0
+CS401,Công nghệ Java,Java technology,False,KHMT,CĐTN,,,,,3.0,1.0
+CS402,Phân tích thiết kế HTTT quản lý,Management-information system analysis and design,False,KHMT,CN,,,,,3.0,0.0
+CS403,Các dịch vụ web,Web services,False,KHMT,CN,,,,,3.0,0.0
+CS404,Công nghệ đa tác tử (Muli-Agent),Multi-agent technology,False,KHMT,CĐTN,,CS312,,,4.0,0.0
+CS405,Logic mờ và ứng dụng,Fuzzy logic and applications,True,KHMT,CĐTN,,,,,3.0,1.0
+CS406,Xử lý ảnh và ứng dụng,Image processing and applications,True,KHMT,CĐTN,,,,,3.0,1.0
+CS407,Các kỹ thuật trong xử lý NNTN,Advanced Techniques in Natural Language Processing,False,KHMT,CĐTN,,CS326,,,4.0,0.0
+CS408,Các hệ giải toán thông minh,Intelligent Problem-Solving Systems,False,KHMT,CĐTN,,CS316,,,4.0,0.0
+CS409,Hệ suy diễn mờ,Fuzzy inference systems,True,KHMT,CĐTN,,,,,3.0,1.0
+CS410,Mạng neural và thuật giải di truyền,Neural netwok and genetic algorithms,True,KHMT,CĐTN,,,IT003,,3.0,1.0
+CS411,Dịch máy,Machine Translation,False,KHMT,CĐTN,,CS325,,,4.0,0.0
+CS412,Web ngữ nghĩa,Sematic web,True,KHMT,CĐTN,,,,CS221,3.0,1.0
+CS414,Lý thuyết automat và ứng dụng,Automata theory and applications,True,KHMT,CĐTN,,,,MA004,3.0,1.0
+CS4143,Đồ họa máy tính,Computer graphics,True,HTTT,CNTC,,,,,3.0,0.0
+CS415,Mã hóa thông tin,Encoding information,False,KHMT,CĐTN,,,,,3.0,1.0
+CS4153,Phát triển ứng dụng trên di động,Mobile Applications Development,True,HTTT,CN,,,,CS2133,3.0,0.0
+CS417,Nhận dạng,Pattern recognition,True,KHMT,CN,,,,,2.0,1.0
+CS418,Trực quan máy tính,Visual computing,False,KHMT,CĐTN,,,,,3.0,1.0
+CS419,Truy xuất thông tin,Information retrieval,True,KHMT,CĐTN,,,,"CS114
+CS221",3.0,1.0
+CS420,Các vấn đề chọn lọc trong Thị giác máy tính,Selected Topics in computer Vision,True,KHMT,CĐTN,,,,CS231,3.0,1.0
+CS421,Khai thác dữ liệu đa phương tiện,Khai thác dữ liệu đa phương tiện,False,KHMT,CĐTN,,,,,3.0,1.0
+CS4243,Thuật toán và tiến trình trong an toàn máy tính,Algorithms and processes in computer security,True,HTTT,CSN,,,,CS4283,3.0,0.0
+CS4273,Nhập môn Công nghệ phần mềm,Software engineering,True,HTTT,CNCS,,,,,3.0,1.0
+CS4283,Mạng máy tính,Computer network,True,HTTT,ĐC,,,,,3.0,0.0
+CS431,Các kĩ thuật học sâu và ứng dụng,Deep Learning and Applications,True,KHMT,CĐTN,,,,"IT001
+IT002",2.0,1.0
+CS4323,Hệ điều hành,Design and Inplementation of Operating system,True,HTTT,ĐC,,,,"CS2133
+CS3653",3.0,0.0
+CS4343,Cấu trúc dữ liệu và giải thuật,Data structure and algorithm Analysis,True,HTTT,ĐC,,,,CS2133,3.0,1.0
+CS4344,An ninh mạng,Cyber Security,False,HTTT,CSN,,,,,3.0,0.0
+CS4793,Trí tuệ nhân tạo,Artificial intelligence,True,HTTT,CNCS,,MKTG5883,,,3.0,1.0
+CS4883,Các vấn đề xã hội trong tính toán,Social issues in computing,False,HTTT,CNTC,,,,,3.0,0.0
+CS5000,Luận văn,Thesis,True,HTTT,KLTN,,,,,10.0,0.0
+CS501,Khóa luận tốt nghiệp,Thesis,False,KHMT,KLTN,,,,,10.0,0.0
+CS502,Các công nghệ web và ứng dụng,Web technology and applications,False,KHMT,CN,,SE341,,,2.0,0.0
+CS503,Môn tốt nghiệp KHMT 2,Computer science,False,KHMT,CN,,,,IT003,3.0,0.0
+CS5030,Thực tập tốt nghiệp,Internship,True,HTTT,TTTN,,,,,3.0,0.0
+CS504,Công nghệ .NET,.Net technology,False,KHMT,CN,,SE310,,,3.0,1.0
+CS505,Khoá luận tốt nghiệp,Thesis,True,KHMT,KLTN,,,,,10.0,0.0
+CS506,Chuyên đề J2EE,J2EE,False,KHMT,CN,,SE325,,,3.0,1.0
+CS507,Hệ điều hành Linux,Linux operating systems,False,KHMT,CN,,NT103,,,3.0,1.0
+CS508,Lập trình cơ sở dữ liệu,Database programming,False,KHMT,CN,,IS203,,,3.0,1.0
+CS510,Lý thuyết thông tin,Information theory,False,KHMT,CN,,NT104,,,3.0,0.0
+CS511,Ngôn ngữ lập trình C#,C# programming language,True,KHMT,CNTC,CS512,,,"IT002
+IT003
+IT001",3.0,1.0
+CS513,Ngôn ngữ lập trình Java,Java programming language,False,KHMT,CN,,SE330,,,3.0,1.0
+CS515,Phân tích thiết kế hệ thống thông tin,Information system analysis and design,False,KHMT,CN,,,,,3.0,1.0
+CS516,Phân tích thiết kế hướng đối tượng với UML,Object-oriented analysis and design with UML,False,KHMT,CN,,,,,3.0,1.0
+CS517,Quản lý dự án,Project management,False,KHMT,CN,,IS208,,,3.0,0.0
+CS518,Xây dựng phần mềm hướng đối tượng,Object-oriented software development,False,KHMT,CN,,,,,3.0,1.0
+CS519,Phương pháp luận nghiên cứu khoa học,Scientific research methodology,True,KHMT,CNTC,SS005,,,,3.0,0.0
+CS521,Toán rời rạc nâng cao,Advance Discerete Mathematics,True,KHMT,CNTC,,,,"IT003
+MA004",4.0,0.0
+CS522,Đại số máy tính,Computer algebra,True,KHMT,CĐTN,,,,"IT003
+MA004",3.0,1.0
+CS523,Cấu trúc dữ liệu và giải thuật nâng cao,Advanced data structures and algorithms,True,KHMT,CNTC,DSAL2,,,"IT003
+IT001",3.0,1.0
+CS524,Một số ứng dụng của xử lý ngôn ngữ tự nhiên,Applied Natural Language Processing,True,KHMT,CNTC,,,,CS221,3.0,1.0
+CS525,Thị giác máy tính trong tương tác người – máy,Computer Vision in Human-Computer Interaction,True,KHMT,CN,,,,,3.0,1.0
+CS526,Phát triển ứng dụng đa phương tiện trên thiết bị di động,Multimedia Mobile Applications,True,KHMT,CNTC,,,,,3.0,1.0
+CS527,Thực tại ảo,Virtual Reality,True,KHMT,CNTC,,,,,3.0,1.0
+CS528,Trực quan hóa thông tin,Information Visualization,True,KHMT,CNTC,,,,,3.0,1.0
+CS529,Các vấn đề nghiên cứu và ứng dụng trong khoa học máy tính,Selected topics for researching and application in Computer Science,True,KHMT,CNTC,,,,CS519,4.0,0.0
+CS530,Đồ án chuyên ngành,Undergraduate Research Project,True,KHMT,CNTC,,,,,3.0,0.0
+CS531,Đồ họa trong video game,Computer Graphics in Video Games,False,KHMT,CN,,,,,3.0,1.0
+CS532,Thị giác máy tính trong tương tác người-máy,Computer Vision in Human-Computer Interaction,True,KHMT,CN,,,,,3.0,1.0
+CS534,Lập trình Javascript và ứng dụng,Lập trình Javascript và ứng dụng,True,KHMT,CNTC,,,,,3.0,1.0
+CS535,Tổng hợp tiếng nói,Speech Synthesis,True,KHMT,CNTC,,,,"CS221
+CS114",3.0,1.0
+CS5423,Nguyên lý các hệ cơ sở dữ liệu,Principle of database systems,True,HTTT,CSN,,,,,3.0,1.0
+CS5433,Các hệ cơ sở dữ liệu phân tán,Distributed database systems,True,HTTT,CSN,,,,"CS5423
+CS4283
+MSIS4013",3.0,0.0
+CS551,Thực tập,Internship,True,KHMT,TTTN,,,,,2.0,0.0
+CSBU001,Lập trình,Programming,True,KHMT,CN,,,,,3.0,1.0
+CSBU002,Mạng máy tính,Networking,True,KHMT,CN,,,,,3.0,1.0
+CSBU003,Thực hành nghề nghiệp,Professional Practice,True,KHMT,CN,,,,,4.0,0.0
+CSBU004,Toán cho Tin học,Maths for Computing,True,KHMT,CN,,,,,3.0,1.0
+CSBU005,Bảo mật,Security,True,KHMT,CN,,,,,3.0,1.0
+CSBU006,Quản lý dự án máy tính thành công,Managing a Successful Computing Project,True,KHMT,CN,,,,,4.0,0.0
+CSBU007,Thiết kế và phát triển cơ sở dữ liệu,Database Design and Development,True,KHMT,CN,,,,,3.0,1.0
+CSBU008,Kiến trúc máy tính,Computer Systems Architecture,True,KHMT,CN,,,,,3.0,1.0
+CSBU009,Dự án nghiên cứu,Computing Research Project,True,KHMT,CN,,,,,4.0,4.0
+CSBU010,Công nghệ kinh doanh thông minh,Business Intelligence,True,KHMT,CN,,,,,3.0,1.0
+CSBU011,Toán rời rạc,Discrete Maths,True,KHMT,CN,,,,,4.0,0.0
+CSBU012,Cấu trúc dữ liệu và giải thuật,Data Structures and Algorithms,True,KHMT,CN,,,,,3.0,1.0
+CSBU013,Lập trình nâng cao,Advanced Programming,True,KHMT,CN,,,,,3.0,1.0
+CSBU014,Máy học,Machine Learning,True,KHMT,CN,,,,,3.0,1.0
+CSBU015,Điện toán đám mây,Cloud Computing,True,KHMT,CN,,,,,3.0,1.0
+CSBU016,Thực tập,Internship,True,KHMT,TTTN,,,,,0.0,0.0
+CSBU101,Lập trình máy tính,Computer Programming,True,KHMT,CN,,,,,40.0,25.0
+CSBU102,Hệ thống máy tính,Computer Systems,True,KHMT,CN,,,,,40.0,25.0
+CSBU103,Phát triển và thiết kế web,Website Design and Development,True,KHMT,CN,,,,,40.0,25.0
+CSBU104,Cấu trúc dữ liệu và giải thuật,Data Structures and Algorithms,True,KHMT,CN,,,,,40.0,25.0
+CSBU105,Mạng máy tính căn bản,Network Fundamentals,True,KHMT,CN,,,,,40.0,25.0
+CSBU106,Đồ án đổi mới sáng tạo,Innovation Project,True,KHMT,CN,,,,,48.0,32.0
+CSBU107,Lập trình hướng đối tượng,Object Oriented Programming,True,KHMT,CN,,,,,40.0,25.0
+CSBU108,Hệ điều hành,Operating Systems,True,KHMT,CN,,,,,40.0,25.0
+CSBU109,Phát triển ứng dụng web và cơ sở dữ liệu,Database and Web Application Development,True,KHMT,CN,,,,,40.0,25.0
+CSBU110,Toán rời rạc và Lập trình khai báo,Discrete Mathematics and Declarative Programming,True,KHMT,CN,,,,,40.0,25.0
+CSBU111,An ninh mạng,Cyber Security,True,KHMT,CN,,,,,40.0,25.0
+CSBU112,Thiết kế phần mềm,Software Design,True,KHMT,CN,,,,,40.0,25.0
+CSBU201,Thiết kế trải nghiệm người dùng,User Experience Design,True,KHMT,CN,,,,,40.0,24.0
+CSBU202,Phát triển ứng dụng cho thiết bị di động và thiết bị đeo,Mobile and Wearable Application Development,True,KHMT,CN,,,,,48.0,32.0
+CSBU203,Điện toán đám mây,Cloud Computing,True,KHMT,CN,,,,,40.0,24.0
+CSBU204,Trí tuệ nhân tạo và Máy học,Artificial Intelligence and Machine Learning,True,KHMT,CN,,,,,40.0,24.0
+CSBU205,Dự án cá nhân,Individual Honours Project,True,KHMT,CN,,,,,48.0,32.0
+CSC01,Tin học đại cương,Introduction to informatics,False,KHMT,CN,,IT001,,,3.0,1.0
+CSC11,Khoa học máy tính I,Computer science I,False,KHMT,CN,,,,,4.0,0.0
+CSC12,Khoa học máy tính II,Computer science II,False,KHMT,CN,,,,,4.0,0.0
+CSC21,Tin học đại cương (TE),Introduction to informatics,False,KHMT,CN,,"IT001
+CSC01",,,5.0,0.0
+CSKI1,Kỹ năng truyền thông làm việc nhóm,Teamwork and communication skills,False,KHMT,CN,,,,,4.0,0.0
+CU001,Văn hóa doanh nghiệp Nhật,Japanese corporate culture,True,KTTT,CN,,,,,2.0,0.0
+DBSS1,Cơ sở dữ liệu,Database,False,TTNN,ĐC,,IT004,,,3.0,1.0
+DS005,Giới thiệu ngành Khoa học Dữ liệu,Introduction to Data Science,True,KTTT,ĐC,,"CS005
+IE005
+IS005
+SE005
+CE005
+NT005
+NT015
+EC005
+AI001",,,1.0,0.0
+DS101,Thống kê và xác suất chuyên sâu,Advanced Statistic and Probabilistics,True,KTTT,CN,,,,MA005,2.0,1.0
+DS102,Học máy thống kê,Statistical Machine Learning,True,KTTT,CN,,,,,3.0,1.0
+DS103,Thu thập và tiền xử lý dữ liệu,Getting and Cleaning Data,True,KTTT,CN,,,,,3.0,1.0
+DS104,Tính toán song song & phân tán,Parallel and Distributed Computing,True,KTTT,CN,,,,IT004,3.0,1.0
+DS105,Phân tích và trực quan dữ liệu,Data Analytics and Visulization,True,KTTT,CN,,,,"MA005
+IT001
+DS103",3.0,1.0
+DS106,Tối ưu hóa và ứng dụng,Optimization and Applications,True,KTTT,CN,,,,MA003,2.0,1.0
+DS107,Tư duy tính toán cho Khoa học dữ liệu,Computational Thinking for Data Science,True,KTTT,CN,,,,,3.0,1.0
+DS200,Phân tích dữ liệu lớn,Big Data Analysis,True,KTTT,CN,,,,,3.0,1.0
+DS201,Deep Learning trong khoa học dữ liệu,Deep Learning for Data Science,True,KTTT,CN,,,,DS102,3.0,1.0
+DS202,Đồ án khoa học dữ liệu và ứng dụng 1,Data science project and application 1,True,KTTT,CN,,,,,0.0,2.0
+DS203,Đồ án khoa học dữ liệu và ứng dụng 2,Data science project and application 2,True,KTTT,CN,,,,DS202,0.0,2.0
+DS204,Đồ án khoa học dữ liệu và ứng dụng,Applied Project in data science,True,KTTT,ĐA,,,,,0.0,2.0
+DS207,Đồ án,Project,True,KTTT,CN,,,,,0.0,2.0
+DS300,Hệ khuyến nghị,Recommender Systems,True,KTTT,CN,,,,,3.0,1.0
+DS301,Các giải thuật khai phá dữ liệu lớn,Mining of Massive Datasets,True,KTTT,CN,,,,,3.0,1.0
+DS302,Phân tích thống kê đa biến,Multivariate Statistical Analysis,True,KTTT,CN,,,MA005,,2.0,1.0
+DS303,Thống kê Bayes,Bayesian Statictics,True,KTTT,CN,,,MA005,,2.0,1.0
+DS304,Thiết kế và phân tích thực nghiệm,Design and Analysis of Experiments,True,KTTT,CN,,,,MA005,3.0,0.0
+DS305,Phân tích dữ liệu chuỗi thời gian và ứng dụng,Applied Time Series Analysis,True,KTTT,CN,,,MA005,,2.0,1.0
+DS306,Phân tích dữ liệu lớn trong tài chính,Big Data in Finance,True,KTTT,CN,,,DS200,,3.0,0.0
+DS307,Phân tích dữ liệu truyền thông xã hội,Social Media Data Analytics,True,KTTT,CN,,,,IT004,3.0,0.0
+DS308,Mô hình đồ thị xác suất,Probabilistic Graphical Models,True,KTTT,CN,,,,,3.0,1.0
+DS309,Thực tập doanh nghiệp,Internship,True,KTTT,TTTN,,,,,2.0,0.0
+DS310,Xử lý ngôn ngữ tự nhiên cho Khoa học dữ liệu,Natural Language Processing for Data Science,True,KTTT,CN,,,,DS102,3.0,1.0
+DS311,Kỹ năng nghiên cứu và viết bài báo khoa học,Scientific research and writing skills,True,KTTT,CN,,,,,3.0,0.0
+DS312,Xử lý ảnh Y Khoa,Medical Image Processing,True,KTTT,CN,,,,,3.0,0.0
+DS505,Khóa luận tốt nghiệp,Thesis,True,KTTT,KLTN,,,,,10.0,0.0
+DSAL1,Cấu trúc dữ liệu và giải thuật,Data Structures and Algorithms,False,TTNN,ĐC,,IT003,,,3.0,1.0
+DSAL2,Cấu trúc dữ liệu & giải thuật nâng cao,Advanced data structures and algorithms,False,KHMT,ĐC,,CS523,,,3.0,1.0
+EC001,Kinh tế học đại cương,Principles of economics,True,HTTT,CSN,,,,,4.0,0.0
+EC002,Quản trị doanh nghiệp,Business Management,True,HTTT,CNTC,,,,,3.0,0.0
+EC003,Tiếp thị căn bản,Basic makerting,True,HTTT,CN,,,,,3.0,0.0
+EC005,Giới thiệu ngành Thương mại Điện tử,Introduction to E-Commerce,True,HTTT,ĐC,,"CS005
+IE005
+IS005
+SE005
+CE005
+NT005
+NT015
+DS005
+AI001",,,1.0,0.0
+EC101,Marketing căn bản,Basic marketing,True,HTTT,CN,,,,,3.0,0.0
+EC201,Phân tích thiết kế quy trình nghiệp vụ doanh nghiệp,Business Process Modeling,True,HTTT,CSN,,,,,3.0,1.0
+EC202,Nhập môn quản trị chuỗi cung ứng,Supply Chain Management,False,HTTT,CNTC,,EC214,,,3.0,1.0
+EC203,Quản trị quan hệ khách hàng và nhà cung cấp,Quản trị quan hệ khách hàng và nhà cung cấp,False,HTTT,CN,,EC213,,,3.0,1.0
+EC204,Marketing điện tử,E-Marketing,True,HTTT,CN,,,,,2.0,1.0
+EC208,QuẢN trị dự án TMĐT,E-Commerce project management,True,HTTT,CN,,,,,3.0,0.0
+EC212,Thực tập doanh nghiệp,Industry Internship Program,False,HTTT,TTTN,,EC222,,,3.0,0.0
+EC213,Quản trị quan hệ khách hàng và nhà cung cấp,Customer Relationship Management and Supplier Relationship Management,True,HTTT,CN,,,,,2.0,1.0
+EC214,Nhập môn Quản trị chuỗi cung ứng,Introduction to Supply Chain Management,True,HTTT,CNTC,,,,IS334,3.0,0.0
+EC219,Pháp luật trong thương mại điện tử,Law in E-Commerce,False,HTTT,CN,,EC229,,,3.0,0.0
+EC222,Thực tập doanh nghiệp,Internship,True,HTTT,TTTN,,,,,2.0,0.0
+EC229,Pháp luật trong thương mại điện tử,Law in E-Commerce,True,HTTT,CN,,,,,2.0,0.0
+EC232,Nguyên lý kế toán,Principle of accounting,True,HTTT,CNTC,,,,,3.0,0.0
+EC301,Tiếp thị trực tuyến (E-Marketing),Tiếp thị trực tuyến (E-Marketing),False,HTTT,CN,,EC311,,,3.0,1.0
+EC302,Thiết kế Hệ thống Thương mại điện tử,Thiết kế Hệ thống Thương mại điện tử,False,HTTT,CN,,EC312,,,3.0,1.0
+EC304,Tối ưu hóa công cụ tìm kiếm trong Thương mại điện tử,Search engine optimization in E-Commerce,True,HTTT,CN,,,,,3.0,0.0
+EC311,Tiếp thị trực tuyến,E-Marketing,True,HTTT,CN,,,,,2.0,1.0
+EC312,Thiết kế hệ thống thương mại điện tử,E-Commerce System Design,True,HTTT,CN,,,,IS207,2.0,1.0
+EC331,Quản trị chiến lược kinh doanh điện tử,Electronic Strategic Business Management,True,HTTT,CNTC,,,,,3.0,0.0
+EC332,Quản trị sản xuất,Production & Mananufacturing Management,True,HTTT,CNTC,,,,,3.0,0.0
+EC333,Quản trị tài chính doanh nghiệp,Finance & Controlling,True,HTTT,CNTC,,,,,3.0,0.0
+EC334,Quản trị kênh phân phối,Distribution Chanel Management,True,HTTT,CNTC,,,,,3.0,0.0
+EC335,An toàn và bảo mật thương mại điện tử,Safety and security in Electronic Commerce,True,HTTT,CN,,,,,3.0,0.0
+EC336,Quản trị nhân lực,Human Resources,True,HTTT,CNTC,,,,,3.0,0.0
+EC337,Hệ thống thanh toán trực tuyến,E-Payment System,True,HTTT,CN,,,,,3.0,0.0
+EC338,Quản trị bán hàng,Sale management,True,HTTT,CNTC,,,,,3.0,0.0
+EC401,Khóa luận tốt nghiệp,Thesis,True,HTTT,KLTN,,,,,10.0,0.0
+EC402,Phát triển ứng dụng thương mại di động,Mobile commerce application development,True,HTTT,CN,,,,,3.0,1.0
+EC403,Thương mại xã hội,Social commerce,True,HTTT,CN,,,,,3.0,0.0
+ECE02,Mạch số,Digital circuit,False,BMTL,ĐC,,,,,3.0,1.0
+ECON3313,Kinh tế tiền tệ,Monetary economics,False,HTTT,CNTC,,,,,3.0,0.0
+EN001,Anh văn 1,English 1,False,BMAV,ĐC,,,ENBT,,4.0,0.0
+EN001.CO,English for Communication 1,English for Communication 1,True,HTTT,BT,,,,,0.0,0.0
+EN001.GE,General English,General English,True,HTTT,BT,,,,,0.0,0.0
+EN002,Anh văn 2,English 2,False,BMAV,ĐC,,"EN004
+ENG01",EN001,,4.0,0.0
+EN002.CO,English for Communication 1,English for Communication 1,True,HTTT,BT,,,,,0.0,0.0
+EN002.GE,General English,General English,True,HTTT,BT,,,,,0.0,0.0
+EN003,Anh văn 3,English 3,False,BMAV,ĐC,,"EN006
+EN005
+ENG02",EN002,,4.0,0.0
+EN004,Anh văn 1,English 1,False,BMAV,ĐC,,ENG01,,,4.0,0.0
+EN005,Anh văn 2,English 2,False,BMAV,ĐC,,ENG02,,,4.0,0.0
+EN006,Anh văn 3,English 3,False,BMAV,ĐC,,ENG03,,,4.0,0.0
+ENBT,Anh văn Bổ túc,English 0,False,BMAV,BT,,,,,0.0,0.0
+ENG00,Anh văn 0,English 0,False,TTNN,ĐC,,,,,0.0,0.0
+ENG01,Anh văn 1,English 1,True,TTNN,ĐC,,"INT001
+EN004
+EN002",,,4.0,0.0
+ENG02,Anh văn 2,English 2,True,TTNN,ĐC,,"INT003
+EN005
+EN003",ENG01,,4.0,0.0
+ENG03,Anh văn 3,English 3,True,TTNN,ĐC,,"INT004
+EN006",ENG02,,4.0,0.0
+ENG04,Anh văn 4,English 4,True,TTNN,ĐC,,INT005,ENG03,,4.0,0.0
+ENG05,Anh văn 5,English 5,True,TTNN,ĐC,,INT006,ENG04,,4.0,0.0
+ENG06,Kỹ năng thuyết trình tiếng Anh,Effective Presentation,True,TTNN,CN,,,ENG03,,4.0,0.0
+ENG07,Kỹ năng viết tiếng Anh,Critical Writing,True,TTNN,CN,,,ENG03,,4.0,0.0
+ENG11,Tiếng anh tăng cường I,Intensive English I,False,TTNN,ĐC,,,,,0.0,0.0
+ENG12,Tiếng anh tăng cường II,Intensive English II,False,TTNN,ĐC,,,,,0.0,0.0
+ENG13,Tiếng Anh I,English Composition I,False,TTNN,ĐC,,,,,0.0,0.0
+ENG14,Tiếng Anh II,English Composition II,False,TTNN,ĐC,,,,,0.0,0.0
+ENG15,Tiếng Anh chuyên ngành CNTT,English for computer science,False,TTNN,ĐC,,,,,0.0,0.0
+ENGA1,Anh văn sơ cấp 1,Anh văn sơ cấp 1,True,TTNN,BT,,,,,0.0,0.0
+ENGA2,Anh văn sơ cấp 2,Anh văn sơ cấp 2,True,TTNN,BT,,,,,0.0,0.0
+ENGBT,Anh văn bổ túc,English 0,False,TTNN,ĐC,,,,,0.0,0.0
+ENGL1113,Tiếng Anh I,English Composition I,True,HTTT,ĐC,,,,,3.0,0.0
+ENGL1213,Tiếng Anh II,English composition 2,True,HTTT,ĐC,ENG14,,ENGL1113,,3.0,0.0
+ENLS1,"Nâng cao kỹ năng nghe, nói tiếng Anh 1","Nâng cao kỹ năng nghe, nói tiếng Anh 1",False,TTNN,ĐC,,,,,0.0,0.0
+ENLS2,"Nâng cao kỹ năng nghe, nói tiếng Anh 2","Nâng cao kỹ năng nghe, nói tiếng Anh 2",False,TTNN,ĐC,,,,,0.0,0.0
+ENRW1,"Nâng cao kỹ năng đọc, viết tiếng Anh 1","Nâng cao kỹ năng đọc, viết tiếng Anh 1",False,TTNN,ĐC,,,,,0.0,0.0
+ENRW2,"Nâng cao kỹ năng đọc, viết tiếng Anh 2","Nâng cao kỹ năng đọc, viết tiếng Anh 2",False,TTNN,ĐC,,,,,0.0,0.0
+HCMT1,Tư tưởng Hồ Chí Minh,Ho Chi Minh's Ideology,False,PĐTĐH,ĐC,,SS003,,,2.0,0.0
+IE005,Giới thiệu ngành Công nghệ Thông tin,Introduction to Information Technology,True,KTTT,ĐC,,"CS005
+IS005
+SE005
+CE005
+NT005
+NT015
+EC005
+DS005
+AI001",,,1.0,0.0
+IE101,Cơ sở hạ tầng công nghệ thông tin,Information technology Infrastructure,True,KTTT,CSN,,,,,2.0,1.0
+IE102,Các công nghệ nền,Platform technologies,True,KTTT,CSN,,,,,2.0,1.0
+IE103,Quản lý thông tin,Information management,True,KTTT,CSN,,,,IT004,3.0,1.0
+IE104,Internet và công nghệ Web,Internet and web technology,True,KTTT,CSN,,,,"IT001
+IT005",3.0,1.0
+IE105,Nhập môn bảo đảm và an ninh thông tin,Introduction to information assurance and security,True,KTTT,CSN,,,,,3.0,1.0
+IE106,Thiết kế giao diện người dùng,User interface design,True,KTTT,CSN,,,,IT001,3.0,1.0
+IE107,Thiết kế giao diện người dùng,Thiết kế giao diện người dùng,False,KTTT,CSN,,,,,3.0,1.0
+IE108,Phân tích thiết kế phần mềm,Software Analysis and Design,True,KTTT,CN,,,,,3.0,1.0
+IE201,Xử lý dữ liệu thống kê,Analysis of statistical data,True,KTTT,CN,,,,"MA005
+MA006",3.0,0.0
+IE202,Quản trị doanh nghiệp,Business management,True,KTTT,CN,,,,,3.0,0.0
+IE203,Hệ thống quản trị qui trình nghiệp vụ,Bussiness process management systems,True,KTTT,CĐTN,,,,"IT001
+IT004",3.0,1.0
+IE204,Tối ưu hóa công cụ tìm kiếm,Search engine optimization,True,KTTT,CĐTN,,,,IE104,3.0,1.0
+IE205,Xử lý ảnh vệ tinh,Satellite image processing,True,KTTT,CN,,,,IS351,3.0,0.0
+IE206,Đồ án chuẩn bị tốt nghiệp,Preparing for the graduation project,True,KTTT,ĐA,,,,,0.0,2.0
+IE207,Đồ án,Project,True,KTTT,ĐA,,,,"IT001
+IT004",0.0,2.0
+IE208,Kiến trúc và tích hợp hệ thống,System Integration and Architecture,False,KTTT,CNTC,,,,,3.0,0.0
+IE209,Công nghệ Java,Java Technology,True,KTTT,CNTC,,IE303,,IT002,3.0,1.0
+IE210,Hệ thống định vị toàn cầu (GPS),Global Positioning System,False,KTTT,CNTC,,,,,3.0,0.0
+IE211,Tin học môi trường,Environmental Informatics,False,KTTT,CNTC,,,,,2.0,0.0
+IE212,Công nghệ Dữ liệu lớn,Big Data Technology,True,KTTT,CN,,,,IT007,3.0,1.0
+IE213,Kỹ thuật phát triển hệ thống Web,Web System Development,True,KTTT,CN,,,,IE104,3.0,1.0
+IE216,Các chủ đề toán học cho KHDL,Topics in Mathematics of Data Science,True,KTTT,CNTC,,,,,3.0,0.0
+IE217,Máy học,Máy học,False,KTTT,CNTC,,DS102,,,3.0,1.0
+IE218,Xử lý dữ liệu lớn,Big Data Processing,True,KTTT,CNTC,,,,,3.0,1.0
+IE221,Kỹ thuật lập trình Python,Python Programming Techniques,True,KTTT,CN,,,,IT001,3.0,1.0
+IE222,Phân tích dữ liệu bằng Python,Phân tích dữ liệu bằng Python,False,KTTT,CN,,,,,3.0,1.0
+IE223,Phân tích dữ liệu bằng Python &R,Phân tích dữ liệu bằng Python &R,True,KTTT,CN,,,,,3.0,1.0
+IE224,Phân tích dữ liệu,Data Analysis,True,KTTT,CN,,,,,3.0,1.0
+IE225,Interconnections Networks,Interconnections Networks,True,KTTT,CN,,,,,3.0,1.0
+IE226,Computer Graphics and Visualization,Computer Graphics and Visualization,True,KTTT,CN,,,,,3.0,1.0
+IE227,Signal Processing over Networks,Signal Processing over Networks,True,KTTT,CN,,,,,3.0,1.0
+IE228,Human-Computer Interaction,Human-Computer Interaction,True,KTTT,CN,,,,,3.0,1.0
+IE229,Artificial Intelligence,Artificial Intelligence,True,KTTT,CN,,,,,3.0,1.0
+IE230,Viết báo cáo kỹ thuật bằng tiếng Nhật,Japanese technical writing,True,KTTT,CN,,,,,0.0,2.0
+IE301,Quản trị quan hệ khách hàng,Customer relationship management,True,KTTT,CNTC,,,,,3.0,0.0
+IE302,Kiến trúc và tích hợp hệ thống,System integration and architecture,True,KTTT,CNTC,,,,,3.0,0.0
+IE303,Công nghệ Java,Java technology,True,KTTT,CĐTN,,,,IT002,3.0,1.0
+IE304,Hệ thống định vị toàn cầu,Global positioning system,True,KTTT,CNTC,,,,IS251,3.0,0.0
+IE305,Tin học môi trường,Environmental informatics,True,KTTT,CNTC,,,,"IE101
+IS251",2.0,0.0
+IE307,Công nghệ lập trình đa nền tảng cho ứng dụng di động,Cross-Platform Mobile Development,True,KTTT,CNTC,,,,,3.0,1.0
+IE309,Thực tập doanh nghiệp,Internship,True,KTTT,CNTC,,,,,2.0,0.0
+IE401,Tin-Sinh học,Bioinformatics,True,KTTT,CĐTN,,,,IT003,3.0,0.0
+IE402,Hệ thống thông tin địa lý 3 chiều,Three - dimentinal geographic information system,True,KTTT,CĐTN,,,,IT004,3.0,1.0
+IE403,Khai thác dữ liệu truyền thông xã hội,Social media mining,True,KTTT,CĐTN,,,,,3.0,0.0
+IE404,Khai phá truyền thông xã hội,Social Media Mining,False,KTTT,CĐTN,,,,,3.0,0.0
+IE405,Công nghệ phân tích dữ liệu lớn,Big data analysis Technologies,True,KTTT,CĐTN,,,,,3.0,1.0
+IE406,Nhập môn ẩn thông tin và ứng dụng,Data hiding fundamentals and applications,True,KTTT,TN,,,,,3.0,0.0
+IE505,Khóa luận tốt nghiệp,Graduation thesis,True,KTTT,KLTN,,,,,10.0,0.0
+IEM4733,Tái cấu trúc quy trình doanh nghiệp,Re-engineering Business Processes,True,HTTT,CN,,,,MSIS3303,3.0,0.0
+IEM5723,"Mô hình hóa dữ liệu, quy trình và đối tượng","Data, Process and Object Modeling",True,HTTT,CSN,,,,MSIS2433,3.0,0.0
+INT001,Tiếng Anh tổng quát (tạm gọi),General English,True,HTTT,BT,,ENG01,,,0.0,0.0
+INT002,Toeic 1,Toeic 1,True,HTTT,BT,,,,,0.0,0.0
+INT003,Tiếng Anh tổng quát 2 (tạm gọi),General English 2,True,HTTT,BT,,ENG02,,,0.0,0.0
+INT004,Toeic 2,Toeic 2,True,HTTT,BT,,ENG03,,,0.0,0.0
+INT005,Tiếng Anh giao tiếp (tạm gọi),Communication,True,HTTT,ĐC,,ENG04,,,0.0,0.0
+INT006,Toeic 3,Toeic 3,True,HTTT,ĐC,,ENG05,,,0.0,0.0
+IS005,Giới thiệu ngành Hệ thống Thông tin,Introduction to Information Systems discipline,True,HTTT,ĐC,,"CS005
+IE005
+SE005
+CE005
+NT005
+NT015
+EC005
+DS005
+AI001",,,1.0,0.0
+IS101,Thiết kế cơ sở dữ liệu,Database design,False,HTTT,CN,IS214,IS214,,,3.0,1.0
+IS102,Các hệ cơ sở tri thức,Knowledge-based systems,False,HTTT,CN,,CS217,,,3.0,0.0
+IS103,Hệ quản trị cơ sở dữ liệu,Database Management Systems,False,HTTT,CN,,IS210,,,3.0,1.0
+IS104,Cơ sở dữ liệu phân tán,Distributed Databases,False,HTTT,CN,,IS211,,,3.0,1.0
+IS105,Hệ quản trị cơ sở dữ liệu Oracle,Oracle database management system,True,HTTT,CN,,,,IT004,3.0,1.0
+IS106,Khai thác dữ liệu,Data Mining,False,HTTT,CN,,,,,3.0,1.0
+IS107,Hệ thống thông tin kế toán,Accounting Information Systems,False,HTTT,CN,,IS232,,,5.0,0.0
+IS201,Phân tích thiết kế hệ thống thông tin,Information system analysis and design,True,HTTT,CSN,,,,"IT004
+IT002",3.0,1.0
+IS202,Nhập môn công nghệ phần mềm,Software engineering,False,HTTT,CN,,SE104,,,3.0,1.0
+IS203,Lập trình cơ sở dữ liệu,Database programming,False,HTTT,CN,,,,IT004,3.0,1.0
+IS204,Nhập môn hệ thống thông tin địa lý,Introduction to Geographic Information Systems,False,HTTT,CN,,IS251,,,3.0,1.0
+IS205,PTTK hướng đối tượng với UML,Object-oriented Analysis and Design with UML,False,HTTT,CN,,IS215,,,3.0,1.0
+IS206,Lập trình ứng dụng Web với Java,Web application programming in Java,False,HTTT,CN,,IS216,,IT004,3.0,1.0
+IS207,Phát triển ứng dụng web,Web application development,True,HTTT,CN,,,,IT004,3.0,1.0
+IS208,Quản lý dự án công nghệ thông tin,Information-technology project management,True,HTTT,CSN,,SE340,,,3.0,1.0
+IS210,Hệ quản trị cơ sở dữ liệu,Database management systems,True,HTTT,CSN,,,,IT004,3.0,1.0
+IS211,Cơ sở dữ liệu phân tán,Distributed databases,True,HTTT,CN,IS104,,,"IT004
+IT005",3.0,1.0
+IS212,Thực tập tốt nghiệp,Internship,True,HTTT,TTTN,,,,,3.0,0.0
+IS213,Đồ án xây dựng một hệ thống thông tin,Information system development,False,HTTT,ĐA,,,,,3.0,0.0
+IS214,Thiết kế cơ sở dữ liệu,Database design,False,HTTT,CN,,,,,3.0,1.0
+IS215,Thiết kế hướng đối tượng với UML,Object-oriented analysis and design with UML,True,HTTT,CSN,,,,"IT002
+IT004",3.0,1.0
+IS216,Lập trình Java,Programming with Java,True,HTTT,CSN,,,,IT004,3.0,1.0
+IS217,Kho dữ liệu và OLAP,Data warehouse and OLAP,True,HTTT,CN,IS304,IS304,,IT004,3.0,0.0
+IS218,Kỹ năng tư vấn,Kỹ năng tư vấn,False,HTTT,CNTC,,,,,2.0,0.0
+IS219,Pháp luật trong Thương mại điện tử,Pháp luật trong Thương mại điện tử,False,HTTT,CNTC,,,,,3.0,0.0
+IS220,Xây dựng HTTT trên các framework,.Net Technology,True,HTTT,CN,,,,,3.0,1.0
+IS225,Khai thác dữ liệu và ứng dụng,Data mining and applications,False,,CN,,,,,4.0,0.0
+IS232,Hệ thống thông tin kế toán,Accounting information systems,True,HTTT,CN,IS107,,,IS336,4.0,0.0
+IS251,Nhập môn Hệ thống thông tin địa lý,Introduction to geographic information systems,True,HTTT,CN,IS204,IS204,,IT004,3.0,1.0
+IS252,Khai thác dữ liệu,Data mining,True,HTTT,CN,IS106,,,"MA005
+IT004",3.0,1.0
+IS253,Lập trình ứng dụng trên thiết bị di động,Mobile application programming,False,HTTT,CN,,NT118,,IT002,2.0,1.0
+IS254,Hệ hỗ trợ quyết định,Decision-sypport systems,True,HTTT,CN,,,,,3.0,0.0
+IS301,Thương mại điện tử,E-commerce,False,HTTT,CN,,IS334,,,3.0,0.0
+IS302,Phân tích không gian,Spatial analysis,False,HTTT,CN,,IS351,,,3.0,1.0
+IS303,Hệ cơ sở dữ liệu không gian,Spatial Database Systems,False,HTTT,CN,,IS352,,,3.0,1.0
+IS3033,Quản lý dự án hệ thống thông tin,IS-Project Management,False,HTTT,CN,,,,,4.0,0.0
+IS304,Kho dữ liệu và OLAP,Data warehouse and OLAP,False,HTTT,CN,,"IS404
+IS217",,,3.0,1.0
+IS305,An toàn và bảo mật HTTT,Information systems security & protection,False,HTTT,CN,,IS335,,,3.0,0.0
+IS306,Hệ thống thông tin quản lý,Accounting information systems,False,HTTT,CN,,IS332,,,3.0,0.0
+IS311,Đồ án xây dựng hệ thống thông tin,Information system development,True,HTTT,ĐA,IS213,IS213,,,3.0,0.0
+IS3303,Phân tích thiết kế hệ thống,System Analysis and Design,False,HTTT,CN,,,,,4.0,0.0
+IS332,Hệ thống thông tin quản lý,Management information systems,True,HTTT,CN,,,,IS201,3.0,0.0
+IS334,Thương mại điện tử,E-commerce,True,HTTT,CN,IS301,,,,3.0,0.0
+IS335,An toàn và bảo mật hệ thống thông tin,Information systems security,True,HTTT,CN,IS305,,,"IT007
+IT005
+IT004",3.0,0.0
+IS336,Hoạch định nguồn lực doanh nghiệp,Enterprise resource planning,True,HTTT,CSN,,,,,3.0,1.0
+IS337,Cơ sở dữ liệu nâng cao,Advanced databases,False,HTTT,CN,,,,,3.0,1.0
+IS338,Dự báo kinh doanh,Markets analysis,False,HTTT,CN,IS306,,,IS336,3.0,0.0
+IS339,Sinh tin học,Bioinformatics,True,HTTT,CNTC,,,,,3.0,0.0
+IS340,Thị trường chứng khoán,Thị trường chứng khoán,True,HTTT,CNTC,,,,,3.0,0.0
+IS341,Khởi nghiệp,Khởi nghiệp,True,HTTT,CNTC,,,,,3.0,0.0
+IS342,Chính phủ điện tử,Chính phủ điện tử,True,HTTT,CNTC,,,,,3.0,0.0
+IS343,Luật CNTT,Luật CNTT,False,HTTT,CNTC,,,,,3.0,0.0
+IS351,Phân tích không gian,Spatial analysis,True,HTTT,CN,IS302,,,IS251,3.0,1.0
+IS352,Hệ cơ sở dữ liệu không gian,Spatial database systems,True,HTTT,CN,IS303,,,"IT004
+IS251",3.0,1.0
+IS353,Mạng xã hội,Social networks,True,HTTT,CĐTN,,,,"IT004
+MA004",3.0,0.0
+IS354,Công nghệ tài chính căn bản Fintech,Introduction to financial technology,True,HTTT,CN,,,,,3.0,0.0
+IS355,Công nghệ Blockchain,Blockchain Technology,True,HTTT,CN,,,,,3.0,1.0
+IS356,Agile IT với DevOps,,True,HTTT,CN,,,,,3.0,0.0
+IS357,Kiến trúc hướng dịch vụ,Service Oriented Architecture,True,HTTT,CN,,,,,3.0,0.0
+IS401,Khóa luận tốt nghiệp,Thesis,True,HTTT,KLTN,,,,,10.0,0.0
+IS4013,"Thiết kế, quản lý và quản trị hệ CSDL","DBM design, management & administration",False,HTTT,CN,,,,,3.0,0.0
+IS402,Điện toán đám mây,Cloud computing,True,HTTT,CĐTN,,,,"IT005
+IT007",3.0,0.0
+IS403,Phân tích dữ liệu kinh doanh,Data analysis in business,True,HTTT,CN,,,,"MA005
+IT004",3.0,0.0
+IS404,Kho dữ liệu và OLAP,Data Warehouse and OLAP,False,HTTT,CĐTN,IS304,IS217,,,3.0,1.0
+IS405,Dữ liệu lớn,Big data,True,HTTT,CĐTN,,,,IT004,3.0,1.0
+IS4133,Công nghệ thông tin cho thương mại điện tử,Information Technologies for e-commerce,False,HTTT,CN,,,,,3.0,0.0
+IS4263,Các ứng dụng thông minh và hỗ trợ ra quyết định,Decision Support and Busi.Intelligence Applications,False,HTTT,CN,,,,,3.0,0.0
+IS4523,Hệ truyền thông dữ liệu,Data Communication Systems,False,HTTT,CN,,,,,3.0,0.0
+IS501,Thực tập cuối khóa,Internship,False,HTTT,TTTN,,IS212,,,3.0,0.0
+IS502,Thực tập doanh nghiệp,Internship,True,HTTT,TTTN,,,,,2.0,0.0
+IS505,Khóa luận tốt nghiệp,Thesis,True,HTTT,KLTN,IS401,IS401,,,10.0,0.0
+IS5100,Thực tập cuối khóa,Internship,False,HTTT,TT,,,,,4.0,0.0
+IT001,Nhập môn lập trình,Introduction to programming,True,KHMT,ĐC,,IT011,,,3.0,1.0
+IT002,Lập trình hướng đối tượng,Object-oriented programming,True,CNPM,CSNN,OOPT1,,,IT001,3.0,1.0
+IT003,Cấu trúc dữ liệu và giải thuật,Data structures and algorithms,True,KHMT,CSNN,DSAL1,IT013,,IT001,3.0,1.0
+IT004,Cơ sở dữ liệu,Databases,True,HTTT,CSNN,,,,,3.0,1.0
+IT005,Nhập môn mạng máy tính,Introduction to computer networks,True,MMT&TT,CSNN,,,,,3.0,1.0
+IT006,Kiến trúc máy tính,Computer architecture,True,KTMT,CSNN,,"IT010
+IT012",,"PH002
+IT001",3.0,0.0
+IT007,Hệ điều hành,Operating systems,True,KTMT,CSNN,OSYS1,,,IT006,3.0,1.0
+IT008,Lập trình trực quan,Visual programming,True,CNPM,CN,,WINP1,,"IT001
+IT002",3.0,1.0
+IT009,Giới thiệu ngành,Introduction to IT disciplines,True,PĐTĐH,CSNN,,"CS005
+IE005
+IS005
+SE005
+CE005
+NT005
+NT015
+EC005
+DS005",,,2.0,0.0
+IT010,Tổ chức và cấu trúc máy tính,Computer Organization and Architecture,True,KTMT,CSN,,IT006,,,2.0,0.0
+IT011,Nhập môn lập trình thi đấu,Introduction to Competitive Programming,True,KHMT,ĐC,,IT001,,,3.0,1.0
+IT012,Tổ chức và Cấu trúc Máy tính II,Computer Structure and Organization II,True,KTMT,CSNN,,PH002,,,3.0,1.0
+IT013,Cấu trúc dữ liệu cho lập trình thi đấu,Data structures and Algorithms for Competitive Programming,True,KHMT,ĐC,,IT003,,,3.0,1.0
+ITEM1,Nhập môn Quản trị doanh nghiệp,Initiation to Business Administration,False,PĐTĐH,ĐC,,SE349,,,2.0,0.0
+ITEW1,Nhập môn công tác kỹ sư,Introduction to Tasks of an Engineer,False,TTNN,ĐC,,"IT009
+SS004",,,2.0,0.0
+ITNT005,Communication,Communication,True,HTTT,BT,,,,,0.0,0.0
+JAN01,Tiếng Nhật 1,Japanese 01,True,PĐTĐH,NN,,,,,2.0,3.0
+JAN02,Tiếng Nhật 2,Japanese 02,True,PĐTĐH,NN,,,JAN01,,2.0,3.0
+JAN03,Tiếng Nhật 3,Japanese 03,True,PĐTĐH,NN,,,JAN02,,2.0,3.0
+JAN04,Tiếng Nhật 4,Japanese 04,True,PĐTĐH,NN,,,JAN03,,2.0,3.0
+JAN05,Tiếng Nhật 5,Japanese 05,True,PĐTĐH,NN,,,JAN04,,2.0,3.0
+JAN06,Tiếng Nhật 6,Japanese 06,True,PĐTĐH,NN,,,JAN05,,1.0,2.0
+JAN07,Tiếng Nhật 7,Japanese 07,True,PĐTĐH,NN,,,JAN06,,1.0,2.0
+JAN08,Tiếng Nhật 8,Japanese 08,True,PĐTĐH,NN,,,JAN07,,1.0,2.0
+LIA01,Đại số tuyến tính,Linear Algebra,False,BMTL,ĐC,,MA003,,,3.0,0.0
+LIA11,Đại số tuyến tính,Linear Algebra,False,BMTL,ĐC,,,,,3.0,0.0
+MA001,Giải tích 1,Calculus 1,False,BMTL,ĐC,,MA006,,,3.0,0.0
+MA002,Giải tích 2,Calculus 2,False,BMTL,ĐC,,MA006,,MA001,3.0,0.0
+MA003,Đại số tuyến tính,Linear algebra,True,BMTL,ĐC,,,,,3.0,0.0
+MA004,Cấu trúc rời rạc,Discrete structures,True,BMTL,ĐC,,,,,4.0,0.0
+MA005,Xác suất thống kê,Probability and statistics,True,BMTL,ĐC,,,,MA006,3.0,0.0
+MA006,Giải tích,Calculus,True,BMTL,ĐC,,,,,4.0,0.0
+MAT01,Toán cao cấp A1,Advanced mathematics A1,False,BMTL,ĐC,,MA001,,,3.0,0.0
+MAT02,Toán cao cấp A2,Advanced mathematics A2,False,BMTL,ĐC,,MA002,,,4.0,0.0
+MAT04,Cấu trúc rời rạc,Discrete Structures,False,BMTL,ĐC,,MA004,,,4.0,0.0
+MAT11,Giải tích 1,Calculus 1,False,BMTL,ĐC,,,,,4.0,0.0
+MAT12,Giải tích 2,Calculus 2,False,BMTL,ĐC,,,,,3.0,0.0
+MAT14,Toán rời rạc cho máy tính,Discrete mathematics for computer,False,BMTL,ĐC,,,,,3.0,0.0
+MAT21,Toán cao cấp A1 (TE),Advanced Mathematics A1,False,BMTL,ĐC,,"MA001
+MAT01",,,4.0,0.0
+MAT22,Toán cao cấp A2 (TE),Advanced Mathematics A2,False,BMTL,ĐC,,"MA002
+MAT02",,,4.0,0.0
+MAT23,Đại số tuyến tính,Linear Algebra,False,BMTL,ĐC,,LIA01,,,4.0,0.0
+MAT24,Cấu trúc rời rạc (TE),Discrete structures,False,BMTL,ĐC,,,,,4.0,0.0
+MATH2144,Giải tích I,Calculus I,True,HTTT,ĐC,,,,,4.0,0.0
+MATH2153,Giải tích II,Calculus 2,True,HTTT,ĐC,MAT12,,,MATH2144,3.0,0.0
+MATH3013,Đại số tuyến tính,Linear Algebra,True,HTTT,ĐC,,,,,3.0,0.0
+ME001,Giáo dục quốc phòng,Military education,True,P.ĐTĐH,ĐC,MEDU1,,,,0.0,0.0
+MEDU1,Giáo dục quốc phòng,Military Education,True,GDQP,QP,,ME001,,,0.0,0.0
+MKTG4223,Quản trị chuỗi cung ứng,Supply Chain Management,True,HTTT,CN,,,,,3.0,0.0
+MKTG5883,Khai phá dữ liệu và ứng dụng,Advanced Data Mining Applications,True,HTTT,CN,,,,CS5423,3.0,1.0
+MLPE1,Kinh tế chính trị Mác-Lênin (TE),Marxism–Leninism political economy,False,P.ĐTĐH,ĐC,,MLPE2,,,5.0,0.0
+MLPE2,Kinh tế chính trị Mác-Lênin (TE1),Marxism–Leninism political economy,False,P.ĐTĐH,ĐC,,,,,4.0,0.0
+MSIS207,Phát triển ứng dụng web,Web Applications Development,True,HTTT,CN,,,,"CS5423
+CS2133",3.0,1.0
+MSIS2433,Lập trình hướng đối tượng,Object Oriented Programming,True,HTTT,CSN,,,,CS2133,3.0,0.0
+MSIS3033,Quản lý dự án hệ thống thông tin,Information systems project management,True,HTTT,CSN,,,,,3.0,0.0
+MSIS3233,Management Science Methods,Management Science Methods,True,HTTT,CN,,,,MATH2153,3.0,0.0
+MSIS3242,Sofware Quality Management,Sofware Quality Management,True,HTTT,CN,,,,,3.0,0.0
+MSIS3243,Managerial Decision Theory,Managerial Decision Theory,True,HTTT,CN,,,,MATH2153,3.0,0.0
+MSIS3303,Phân tích thiết kế hệ thống,System analysis and design,True,HTTT,CN,IS3303,,,CS5423,3.0,1.0
+MSIS4013,"Thiết kế, quản lý và quản trị hệ CSDL","Database system design, management and administration",True,HTTT,CN,,,,CS5423,3.0,0.0
+MSIS402,Điện toán đám mây,Cloud Computing,True,HTTT,CN,,,,,3.0,0.0
+MSIS405,Dữ liệu lớn,Big data,True,HTTT,CN,,,,,3.0,0.0
+MSIS4133,Công nghệ thông tin trong thương mại điện tử,Information Technologies for e-commerce,True,HTTT,CN,,,,,3.0,0.0
+MSIS4243,Control and Audit of Information Systems,Control and Audit of Information Systems,True,HTTT,CN,,,,,3.0,0.0
+MSIS4263,Các ứng dụng thông minh và hỗ trợ ra quyết định,Decision-support and intelligence applications,True,HTTT,CN,IS4263,,,MSIS4013,3.0,0.0
+MSIS4363,Các chủ đề nâng cao trong phát triển hệ thống,Advanced topics in systems development,False,HTTT,CNTC,,,,,3.0,0.0
+MSIS4443,Các hệ thống mô phỏng trên máy tính,Computer based simulation systems,True,HTTT,CN,,,,,3.0,0.0
+MSIS4523,Hệ truyền thông dữ liệu,Data communication systems,True,HTTT,CN,IS4523,ACCT5123,,,3.0,0.0
+MSIS4800,Hệ thống thông tin tính toán,Accounting information system,False,HTTT,CNTC,,,,,3.0,0.0
+MSIS4801,Quản lý thông tin địa lý,Geospatial information management,False,HTTT,CNTC,IS4801,,,,3.0,1.0
+NHJP1,Tiếng Nhật Sơ cấp 1,Japanese for beginners 1,True,PĐTĐH,BT,,,,,0.0,0.0
+NHJP2,Tiếng Nhật Sơ cấp 2,Japanese for beginners 2,True,PĐTĐH,BT,,,,,0.0,0.0
+NT005,Giới thiệu ngành Mạng máy tính và Truyền thông dữ liệu,Introduction to IT programs Computer Networks and Data communications,True,MMT&TT,ĐC,,"CS005
+IE005
+IS005
+SE005
+CE005
+NT015
+EC005
+DS005
+AI001",,,1.0,0.0
+NT015,Giới thiệu ngành An toàn Thông tin,Introduction to Information Security programs,True,MMT&TT,ĐC,,"CS005
+IE005
+IS005
+SE005
+CE005
+NT005
+EC005
+DS005
+AI001",,,1.0,0.0
+NT101,An toàn mạng máy tính,Network security,True,MMT&TT,CSN,,,,IT005,3.0,1.0
+NT102,Điện tử cho công nghệ thông tin,Electronics for information technology,False,MMT&TT,CSN,,PH002,,,3.0,1.0
+NT103,Hệ điều hành Linux,Linux operating systems,True,MMT&TT,CNTC,NT309,NT131,,,3.0,1.0
+NT104,Lý thuyết thông tin,Information theory,True,MMT&TT,CSN,,,,IT001,3.0,0.0
+NT105,Truyền dữ liệu,Data communications,True,MMT&TT,CSN,,,,IT005,3.0,1.0
+NT106,Lập trình mạng căn bản,Basic network programming,True,MMT&TT,CSN,,,,"IT005
+IT001",2.0,1.0
+NT107,Xử lý tín hiệu trong truyển thông,Signal Processing for Communications,False,MMT&TT,CN,,NT332,,,3.0,1.0
+NT108,Mạng truyền thông và di động,Communication and mobile networks,False,MMT&TT,CN,,NT132,,,3.0,0.0
+NT109,Lập trình ứng dụng mạng,Network-application programming,True,MMT&TT,CSN,,,,"IT004
+NT106",2.0,1.0
+NT110,Tín hiệu và mạch,Signals and circuits,False,MMT&TT,CN,,PH001,,IT002,3.0,0.0
+NT111,Thiết bị mạng và truyền thông ĐPT,Network appliances and multimedia communications,True,MMT&TT,CNTC,,,,IT005,3.0,1.0
+NT112,Công nghệ mạng viễn thông,Communications technology,False,MMT&TT,CN,,NT402,,IT005,2.0,1.0
+NT113,Thiết kế Mạng,Network design,True,MMT&TT,CSN,,,,NT132,2.0,1.0
+NT114,Đồ án chuyên ngành,Specialized project,True,MMT&TT,ĐA,,,,,0.0,2.0
+NT115,Thực tập doanh nghiệp,Internship,True,MMT&TT,TTTN,,NT215,,,3.0,0.0
+NT116,Kỹ năng mềm,Soft skills,False,MMT&TT,CN,,SS004,,,0.0,2.0
+NT117,Đồ án môn học Lập trình ứng dụng Mạng,Network-based application programming project,True,MMT&TT,ĐA,NT202,,,,0.0,2.0
+NT118,Phát triển ứng dụng trên thiết bị di động,Mobile application development,True,MMT&TT,CSN,NT305,,,IT002,2.0,1.0
+NT119,Mật mã học,Cryptography,False,MMT&TT,CSN,,NT219,,"MA001
+MA002",3.0,1.0
+NT121,Thiết bị mạng và truyền thông ĐPT,Network appliances and multimedia communications,True,MMT&TT,CĐTN,,NT111,,,2.0,1.0
+NT130,Cơ chế hoạt động của mã độc,Malware modus operandi,False,MMT&TT,CSN,,NT230,,"IT007
+NT101",3.0,1.0
+NT131,Hệ thống nhúng Mạng không dây,Wireless Embedded Network Systems,True,MMT&TT,CSN,,,,IT007,3.0,1.0
+NT132,Quản trị mạng và hệ thống,Networks and Systems Administration,True,MMT&TT,CSN,,,,IT005,3.0,1.0
+NT133,An toàn kiến trúc hệ thống,System Architecture Security,True,MMT&TT,CN,,,,"IT006
+IT007",2.0,1.0
+NT137,Kỹ thuật phân tích mã độc,Malware analysis techniques,True,MMT&TT,CN,,,,,2.0,1.0
+NT201,Phân tích thiết kế hệ thống truyền thông và mạng,System analysis and design,True,MMT&TT,CNTC,,NT532,,,3.0,0.0
+NT202,Đồ án môn Lập trình ứng dụng mạng,Project on Nerwork-Application Programming,False,MMT&TT,ĐA,,NT117,,,0.0,2.0
+NT203,Đồ án chuyên ngành,Specialized Project,False,MMT&TT,ĐA,,NT114,,,0.0,2.0
+NT204,"Hệ thống tìm kiếm, phát hiện và ngăn ngừa xâm nhập",Intrusion detection and prevention system,True,MMT&TT,CN,NT321,,,,2.0,1.0
+NT205,Tấn công mạng,Network offences,True,MMT&TT,CNTC,,,,NT101,2.0,1.0
+NT206,Quản trị hệ thống mạng,Computer network administration,False,MMT&TT,CN,"NT301,NT006",NT531,,IT005,2.0,1.0
+NT207,Quản lý rủi ro và an toàn thông tin trong doanh nghiệp,Risk management and information security in enterprise,True,MMT&TT,CN,,,,NT101,2.0,1.0
+NT208,Lập trình ứng dụng Web,Web-Based Application Development,True,MMT&TT,CNTC,,"NT507
+NT307
+NT533",,NT106,2.0,1.0
+NT209,Lập trình hệ thống,Computer System programming,True,MMT&TT,CSN,,,,"IT006
+IT001",2.0,1.0
+NT210,Thương mại Điện tử và Triển khai ứng dụng,E-commerce and applications,True,MMT&TT,CĐTN,NT502,,,"IT005
+NT106",2.0,1.0
+NT211,"An ninh nhân sự, định danh và chứng thực","Identification, authentication and privacy security (personal information protection)",True,MMT&TT,CNTC,,,,,2.0,1.0
+NT212,"An toàn dữ liệu, khôi phục thông tin sau sự cố",Data integrity and disaster recovery,True,MMT&TT,CNTC,,,,"NT101
+IT004",2.0,1.0
+NT213,Bảo mật web và ứng dụng,Web and application security,True,MMT&TT,CN,,,,NT208,2.0,1.0
+NT215,Thực tập doanh nghiệp,Internship,True,MMT&TT,TTTN,,,,,2.0,0.0
+NT216,Bảo mật hệ thống dữ liệu,Data System Security,True,MMT&TT,CNTC,,,,,2.0,1.0
+NT219,Mật mã học,Cryptography,True,MMT&TT,CN,,NT119,,,2.0,1.0
+NT230,Cơ chế hoạt động của mã độc,Malware modus operandi,True,MMT&TT,CSN,,NT130,,"IT007
+NT101",2.0,1.0
+NT301,Quản trị hệ thống mạng,Computer network administration,False,MMT&TT,CN,,"NT206
+NT531",,,2.0,1.0
+NT302,Xây dựng chuẩn chính sách an toàn thông tin trong doanh nghiệp,Enterprise information security policy,False,MMT&TT,CN,,NT331,,,2.0,1.0
+NT303,Công nghệ thoại IP,VoIP technology,True,MMT&TT,CN,,NT536,,NT105,2.0,1.0
+NT304,Ứng dụng truyền thông và an ninh thông tin,Applications of communications and information security,False,MMT&TT,CN,,,,,2.0,1.0
+NT305,Phát triển ứng dụng trên thiết bị di động,Mobile Application Development,False,MMT&TT,CN,,NT118,,,2.0,1.0
+NT306,Kỹ thuật lập trình mạng trên Linux,Network programming techniques on Linux,False,MMT&TT,CN,,,,,3.0,0.0
+NT307,Xây dựng ứng dụng web,Web application development,False,MMT&TT,CN,,"NT208
+NT533",,,2.0,1.0
+NT309,Lập trình trên Linux,Programming on Linux,False,MMT&TT,CN,,,,,2.0,1.0
+NT310,Pháp chứng mạng di động,Digital forensics,True,MMT&TT,CNTC,,,,NT101,2.0,1.0
+NT311,Công nghệ tường lửa và bảo vệ mạng ngoại vi,Firewall technology and perimeter protection,True,MMT&TT,CNTC,,,,NT101,2.0,1.0
+NT312,Bảo mật với smartcard và NFC,Smart card and NFC security,True,MMT&TT,CNTC,,,,NT101,2.0,1.0
+NT320,Công nghệ vệ tinh,Satelite technology,False,MMT&TT,CN,,,,,3.0,0.0
+NT321,"Hệ thống tìm kiếm, phát hiện và ngăn ngừa xâm nhập",Intrusion Detection and Prevention System,False,MMT&TT,CN,,NT204,,,2.0,1.0
+NT330,An toàn mạng không dây và di động,Wireless network and mobile security,True,MMT&TT,CN,,NT108,,NT101,2.0,1.0
+NT331,Xây dựng chuẩn chính sách an toàn thông tin trong doanh nghiệp,Enterprise information security policy,True,MMT&TT,CN,NT302,,,"IT005
+NT101",2.0,1.0
+NT332,Xử lý tín hiệu trong truyền thông,Signal processing in communications,True,MMT&TT,CĐTN,NT107,,,IT005,3.0,1.0
+NT333,Tính toán lưới,Net computing,True,MMT&TT,CNTC,NT403,,,"IT005
+NT106",2.0,1.0
+NT334,Pháp chứng kỹ thuật số,Digital forensics,True,MMT&TT,CN,,,,"NT101
+NT230",2.0,1.0
+NT395,Phát triển ứng dụng trên thiết bị di động,Mobile application development,False,MMT&TT,CN,,,,,2.0,1.0
+NT401,An toàn mạng nâng cao,Advanced network security,False,MMT&TT,CN,,,,,2.0,1.0
+NT402,Công nghệ mạng viễn thông,Communications technology,True,MMT&TT,CN,NT112,NT404,,NT105,2.0,1.0
+NT403,Tính toán lưới,Net Computing,False,MMT&TT,CN,,NT333,,,2.0,1.0
+NT404,Khóa luận tốt nghiệp,Thesis,False,MMT&TT,KLTN,,,,,10.0,0.0
+NT405,Bảo mật Internet,Cyber Security,True,MMT&TT,CĐTN,NT503,,,"NT101
+IT005",2.0,1.0
+NT406,Đồ án tốt nghiệp,Graduation Project,True,MMT&TT,CĐTN,NT504,,,,4.0,0.0
+NT407,Pháp chứng kỹ thuật số,Digital Forensics,False,MMT&TT,CN,,NT334,,,2.0,1.0
+NT408,Bảo mật trên Internet,Cyber security,False,MMT&TT,CN,,,,,3.0,1.0
+NT501,Thực tập doanh nghiệp,Internship,False,MMT&TT,TTTN,,NT115,,,3.0,0.0
+NT502,Thương mại Điện tử và Triển khai ứng dụng,E-commerce and applications,False,MMT&TT,CĐTN,,NT210,,"IT005
+NT101
+NT109",2.0,1.0
+NT503,Bảo mật Internet,Cyber security,False,MMT&TT,CĐTN,,NT405,,"IT005
+NT101",2.0,1.0
+NT504,Tiểu luận tốt nghiệp,Graduation project,True,MMT&TT,CĐTN,NT406,NT406,,"NT114
+NT117",4.0,0.0
+NT505,Khóa luận tốt nghiệp,Thesis,True,MMT&TT,KLTN,,,,,10.0,0.0
+NT507,Xây dựng ứng dụng web,Web application development,False,MMT&TT,CĐTN,,NT208,,,2.0,1.0
+NT509,Hệ thống đa tác tử di động thông minh,Intelligent mobile multi-agent systems,False,MMT&TT,CĐTN,,,,,2.0,1.0
+NT521,Lập trình an toàn và khai thác lỗ hổng phần mềm,Secure Programming and Exploiting Vulnerabilities,True,MMT&TT,CNTC,,,,"IT002
+NT209",3.0,1.0
+NT522,Phương pháp học máy trong an toàn thông tin,Machine learning for information security,True,MMT&TT,CNTC,,,,,2.0,1.0
+NT523,An toàn thông tin trong kỷ nguyên máy tính lượng tử,Cyber Security in the Quantum Era,True,MMT&TT,CNTC,,,,MA003,2.0,1.0
+NT531,Đánh giá hiệu năng hệ thống mạng máy tính,Modeling and performance evaluation of network and computer systems,True,MMT&TT,CN,,,,NT132,2.0,1.0
+NT532,Công nghệ Internet of things hiện đại,Advanced Internet of Things Technologies,True,MMT&TT,CNTC,,,,NT131,2.0,1.0
+NT533,Hệ tính toán phân bố,Distributed computing system,True,MMT&TT,CN,,,,IT005,2.0,1.0
+NT534,An toàn mạng máy tính nâng cao,Advanced security network,True,MMT&TT,CSN,,,,NT101,2.0,1.0
+NT535,Bảo mật Internet of things,Security and Privacy in Internet of Things,True,MMT&TT,CNTC,,,,NT101,2.0,1.0
+NT536,Công nghệ truyền thông đa phương tiện,Multimedia Communication Technologies,True,MMT&TT,CN,,,,,2.0,1.0
+NT537,Truyền thông xã hội và kinh doanh,Social Media and Business Practices,True,MMT&TT,CN,,,,,3.0,0.0
+NT538,Giải thuật xử lý song song và phân bố,Algorithms in parallel and distributed computing,True,MMT&TT,CN,,,,IT005,2.0,1.0
+NT539,AI ứng dụng trong mạng và truyền thông,Artificial Intelligence for Networking and Communications,True,MMT&TT,TN,,,,IT005,3.0,1.0
+NT540,Mạng không dây thế hệ mới,Next-generation wireless networks,True,MMT&TT,CN,,,,NT105,2.0,1.0
+NT541,Công nghệ mạng khả lập trình,Reprogramming network technologies,True,MMT&TT,CN,,,,,3.0,1.0
+NT542,Lập trình kịch bản tự động hóa cho quản trị và bảo mật mạng,"Scripting for Administration, Automation and Security",True,MMT&TT,CN,,,,NT132,2.0,1.0
+NT543,Tín hiệu và hệ thống thông tin,Signal and Communication System,True,MMT&TT,CN,,,,NT105,2.0,1.0
+NT544,Ăng ten và truyền thông vô tuyến,Antena and telecommunication,True,MMT&TT,CN,,,,NT105,3.0,1.0
+NT545,Thiết kế hệ thống viễn thông,Fundamental techniques in Telecomunication System Design,True,MMT&TT,CN,,,,NT402,2.0,1.0
+NT546,Thiết kế và triển khai mạng tốc độ cao,Design and implementation high-speed networks,True,MMT&TT,CN,,,,NT113,2.0,1.0
+OOPT1,Lập trình hướng đối tượng,Object-Oriented Programming,False,CNPM,ĐC,,IT002,,,3.0,1.0
+OOPT2,Lập trình hướng đối tượng,Object-oriented programming,False,CNPM,CSNN,,,,,4.0,1.0
+OSYS1,Hệ điều hành,Operating Systems,False,MMT&TT,ĐC,,IT007,,,3.0,0.0
+OSYS2,Hệ điều hành,Operating systems,False,MMT&TT,ĐC,,IT007,,,3.0,0.0
+PE001,Giáo dục thể chất 1,Physical education 1,False,PĐTĐH,TC,PEDU1,PE012,,,0.0,0.0
+PE002,Giáo dục thể chất 2,Physical education 2,False,PĐTĐH,TC,PEDU2,PE012,,,0.0,0.0
+PE003,Giáo dục thể chất 3,Physical education 3,False,TTNN,TC,,,,,0.0,0.0
+PE012,Giáo dục thể chất,Physical education,True,PĐTĐH,TC,,,,,0.0,0.0
+PEDU1,Giáo dục thể chất 1,Physical Education 1,False,GDTC,TC,,PE001,,,0.0,0.0
+PEDU2,Giáo dục thể chất 2,Physical Education 2,False,PĐTĐH,TC,,PE002,,,0.0,0.0
+PH001,Nhập môn điện tử,Introduction to electrical engineering,True,BMTL,ĐC,,,,,3.0,0.0
+PH002,Nhập môn mạch số,Introduction to digital circuit,True,KTMT,ĐC,,"CE102
+NT102",,,3.0,1.0
+PH003,Vật lý kỹ thuật,Technical physics,False,BMTL,ĐC,,"PHY02
+PH002",,,4.0,0.0
+PHIL1,Những NLCB của chủ nghĩa Mác-Lênin,Fundamental Principles of Marxism-Leninism,False,BMAV,ĐC,,SS001,,,5.0,0.0
+PHIL2,Triết học Mác-Lênin,Marxist-Leninist philosophy,False,P.ĐTĐH,ĐC,,,,,5.0,0.0
+PHY01,Vật lý đại cương A1,General physics A1,False,BMTL,ĐC,,PH001,,,3.0,0.0
+PHY02,Vật lý đại cương A2,General physics A2,False,BMTL,ĐC,,PH002,,,3.0,0.0
+PHY03,Vật lý đại cương A3,General physics A3,False,BMTL,ĐC,,,,,2.0,0.0
+PHY11,General Physics 1,General Physics 1,False,BMTL,ĐC,,,,,4.0,0.0
+PHY12,General Physics 2,General Physics 2,False,BMTL,ĐC,,,,,4.0,0.0
+PHY22,Vật lý đại cương A2 (TE1),General physics A2,False,BMTL,ĐC,,,,,4.0,0.0
+PHYS1114,Vật lý đại cương I,General physics 1,True,HTTT,ĐC,,,,,4.0,0.0
+PHYS1214,Vật lý đại cương II,General physics 2,True,HTTT,ĐC,PHY12,,,PHYS1114,4.0,0.0
+SC203,Phương pháp khoa học,Scientific research methodology,True,HTTT,CNTC,,,,,3.0,0.0
+SE005,Giới thiệu ngành Kỹ thuật Phần mềm,Introduction to Software Engineering,True,CNPM,ĐC,,"CS005
+IE005
+IS005
+CE005
+NT005
+NT015
+EC005
+DS005
+AI001",,,1.0,0.0
+SE100,Phương pháp Phát triển phần mềm hướng đối tượng,Object-oriented software development methodology,True,CNPM,CSN,,,,"SE104
+IT008",3.0,1.0
+SE101,Phương pháp mô hình hóa,Modeling methods,True,CNPM,CSN,,,,"IT001
+IT002
+IT003",3.0,0.0
+SE102,Nhập môn phát triển game,Introduction to game development,True,CNPM,CSN,,,,IT001,2.0,1.0
+SE103,Các phương pháp lập trình,Programming Paradigms,False,CNPM,CN,,SE334,,,2.0,1.0
+SE104,Nhập môn Công nghệ phần mềm,Software engineering,True,CNPM,CSN,,,,"IT002
+IT004",3.0,1.0
+SE105,Lập trình nhúng căn bản,Embedded-system Programming,False,CNPM,CN,,CE211,,,2.0,1.0
+SE106,Đặc tả hình thức,Formal specification,True,CNPM,CSN,,,,"IT001
+IT003
+SE104
+IT002",4.0,0.0
+SE107,Phân tích thiết kế hệ thống,System analysis and design,False,CNPM,CN,SE207,IS201,,"IT002
+IT004
+SE104",3.0,1.0
+SE108,Kiểm chứng phần mềm,Software testing,False,CNPM,CSN,,SE113,,"IT001
+SE104",2.0,1.0
+SE109,"Phát triển, vận hành, bảo trì phần mềm","Software development, deployment and maintenance",True,CNPM,CSN,SE209,,SE104,,3.0,0.0
+SE110,Phương pháp Phát triển phần mềm hướng đối tượng,Phương pháp Phát triển phần mềm hướng đối tượng,False,CNPM,CN,,,,,3.0,1.0
+SE111,Đồ án mã nguồn mở,Open source project,True,CNPM,CSN,SE417,SE121,,"IT001
+IT002
+IT003
+IT004
+SE104",2.0,0.0
+SE112,Đồ án chuyên ngành,Specialized project,True,CNPM,CSN,SE418,SE122,,"IT002
+IT003
+IT004
+SE104",2.0,0.0
+SE113,Kiểm chứng phần mềm,Software Testing,True,CNPM,CNTC,,,,SE104,3.0,1.0
+SE114,Nhập môn ứng dụng di động,Mobile Application Overview,True,CNPM,CSN,,,,"IT001
+IT002",2.0,1.0
+SE121,Đồ án 1,Major Project 1,True,CNPM,CSN,,,,SE104,2.0,0.0
+SE122,Đồ án 2,Major Project 2,True,CNPM,CSN,,,SE121,,2.0,0.0
+SE207,Phân tích thiết kế hệ thống,System Analysis and Design,False,CNPM,CN,,SE107,,,3.0,1.0
+SE208,Kiểm chứng phần mềm,Software Testing,False,CNPM,CN,,SE108,,,2.0,1.0
+SE209,"Phát triển, vận hành, bảo trì phần mềm","Software Development, Deployment and Maintenance",False,CNPM,CN,,SE109,,,3.0,0.0
+SE210,Quản lý dự án công nghệ thông tin,Information-Technology Project Management,False,CNPM,CN,,IS208,,,3.0,1.0
+SE211,Phát triển phần mềm hướng đối tượng,Object-oriented Software Development Methodology,False,CNPM,CN,,SE100,,,3.0,1.0
+SE212,Phát triển phần mềm mã nguồn mở,Open-source Software Development,False,CNPM,CN,,SE331,,,2.0,1.0
+SE213,Xử lý phân bố,Distributed Computing,False,CNPM,CN,,SE339,,,2.0,1.0
+SE214,Công nghệ phần mềm chuyên sâu,Advanced software engineering,True,CNPM,CN,,,,"SE104
+IT001
+IT003",3.0,1.0
+SE215,Giao tiếp người máy,Human-computer interaction,True,CNPM,CN,,,,SE104,3.0,1.0
+SE220,Thiết kế Game,Introduction to game design,True,CNPM,CN,SE323,,,SE102,3.0,0.0
+SE221,Lập trình game nâng cao,Advanced game programming,True,CNPM,CN,,,,SE102,3.0,1.0
+SE301,Phát triển phần mềm mã nguồn mở,Open-source software development,True,CNPM,CN,SE212,,,"IT003
+IT004
+IT002
+SE104
+SE109
+IT001",3.0,0.0
+SE310,Công nghệ .NET,.Net technology,True,CNPM,CNTC,SE312,,,,3.0,1.0
+SE311,Ngôn ngữ lập trình Java,Java Programming Language,False,CNPM,CN,,SE330,,,3.0,1.0
+SE312,Công nghệ .NET,.Net Technology,False,CNPM,CN,,SE310,,"IT004
+SE104
+SE347",3.0,1.0
+SE313,Một số thuật toán thông minh,Intelligent algorithms,True,CNPM,CNTC,SE337,,,"IT002
+IT003
+IT001",2.0,0.0
+SE320,Lập trình đồ họa 3 chiều với Direct3D,3D programming with Direct3D,True,CNPM,CNTC,,,,SE102,3.0,1.0
+SE321,Lập trình trên thiết bị di động,Mobile Device Application Development,False,CNPM,CN,,SE346,,,4.0,0.0
+SE322,Công nghệ Web và ứng dụng,Web Technology and Applications,False,CNPM,CN,,SE341,,,2.0,0.0
+SE323,Thiết kế Game,Introduction to game design,False,CNPM,CN,,SE220,,,4.0,0.0
+SE324,Nhập môn lập trình 3D game,3D game engine design,False,CNPM,CN,,,,,3.0,1.0
+SE325,Chuyên đề J2EE,J2EE,True,CNPM,CNTC,,,,"IT002
+IT003
+IT004
+SE330",3.0,1.0
+SE326,Cơ sở dữ liệu nâng cao,Advanced Databases,False,CNPM,CN,,IS337,,,2.0,0.0
+SE327,Phát triển và vận hành game,Games development,True,CNPM,CNTC,,,,SE102,3.0,0.0
+SE328,Lập trình TTNT trong Game,Artificial intelligence on game programming,True,CNPM,CNTC,SE334,,,"IT002
+IT003
+SE102",3.0,1.0
+SE329,Thiết kế 3D Game Engine,3D game engine design,True,CNPM,CNTC,,,,SE102,3.0,1.0
+SE330,Ngôn ngữ lập trình Java,Java programming language,True,CNPM,CSN,SE311,,,"IT001
+IT002",3.0,1.0
+SE331,Chuyên đề E-commerce,E-commerce,True,CNPM,CNTC,SE331,,,"IT004
+SE104
+SE347",2.0,0.0
+SE332,Chuyên đề CSDL nâng cao,Advanced database,True,CNPM,CN,SE326,,,IT004,2.0,0.0
+SE333,Chuyên đề E-Government,E-Government,False,CNPM,CN,,SE404,,,2.0,0.0
+SE334,Các phương pháp lập trình,Programming paradigms,True,CNPM,CN,SE103,,,IT001,2.0,1.0
+SE335,Công nghệ XML và ứng dụng,XML technology and applications,False,CNPM,CN,,,,,3.0,1.0
+SE336,Phương pháp luận sáng tạo KH-CN,Scientific methodology and innovation,False,CNPM,CN,,CS519,,,2.0,0.0
+SE337,Các thuật toán thông minh,Intelligent Algorithms,False,CNPM,CN,,SE313,,,1.0,0.0
+SE338,Logic mờ,Fuzzy logic,False,CNPM,CN,SE342,CS405,,,2.0,0.0
+SE339,Xử lý phân bổ,Distributed computing,False,CNPM,CN,,,,,2.0,1.0
+SE340,Quản lý dự án công nghệ thông tin,Information-technology project management,True,CNPM,CN,SE210,IS208,,IT001,3.0,1.0
+SE341,Công nghệ Web và ứng dụng,Web technology and applications,True,CNPM,CN,,,,"IT001
+IT002
+IT004",2.0,0.0
+SE342,Logic mờ,Fuzzy logic,False,CNPM,CN,,,,,2.0,0.0
+SE343,Công nghệ Portal,Portal technology,True,CNPM,CNTC,SE343,,,SE347,3.0,0.0
+SE344,Lập trình game trong các thiết bị di động,Mobile game programming,True,CNPM,CNTC,SE344,,,"IT001
+SE346",3.0,1.0
+SE345,Kỹ thuật lập trình nhúng,Embedded programming techniques,False,CNPM,CN,,,,,3.0,1.0
+SE346,Lập trình trên thiết bị di động,Mobile device application development,True,CNPM,CN,,,,"IT001
+IT008",3.0,1.0
+SE347,Công nghệ Web và ứng dụng,Web technology and applications,True,CNPM,CNTC,,SE341,,"IT001
+IT002
+IT004",3.0,1.0
+SE348,Chuyên đề M-commerce,M-commerce,True,CNPM,ĐC,,,,SE331,2.0,0.0
+SE349,Nhập môn Quản trị doanh nghiệp,Introduction to business administration,False,CNPM,CN,ITEM1,IE202,,,2.0,0.0
+SE350,Chuyên đề E-learning,E-learning,True,CNPM,ĐC,,,,,2.0,0.0
+SE351,Xử lý song song,Parallel processing,True,CNPM,CN,,,,"IT001
+IT002
+IT003",3.0,1.0
+SE352,Phát triển ứng dụng VR,VR App Development,True,CNPM,CNTC,,,,SE102,2.0,1.0
+SE354,Chuyên đề các quy trình phát triển phần mềm hiện đại,E-learning,True,CNPM,CNTC,,,,,2.0,1.0
+SE355,Máy học và các công cụ,,True,CNPM,CN,,,,IT003,2.0,1.0
+SE356,Kiến trúc Phần mềm,Kiến trúc Phần mềm,True,CNPM,CNTC,,,,"SE104
+SE100
+SE357",3.0,1.0
+SE357,Kỹ thuật phân tích yêu cầu,Requirement Engineering,True,CNPM,CNTC,,,,SE104,2.0,1.0
+SE358,Quản lý dự án Phát triển Phần mềm,Software development project management,True,CNPM,CN,,,,SE104,3.0,1.0
+SE400,Seminar các vấn đề hiện đại của CNPM,Seminar on modern software engineering,True,CNPM,CĐTN,,,,"SE100
+SE104",4.0,0.0
+SE401,Mẫu thiết kế,Software design pattern,True,CNPM,CĐTN,,,,SE100,3.0,0.0
+SE402,Điện toán đám mây,Cloud computing,False,CNPM,CĐTN,,IS402,,"IT005
+IT008",2.0,0.0
+SE403,Nguyên lý thiết kế thế giới ảo,Virtual-world design,True,CNPM,CĐTN,,,,,4.0,0.0
+SE404,Chuyên đề E-Government,E-government,True,CNPM,CĐTN,SE333,,,,2.0,0.0
+SE405,Chuyên đề Mobile and Pervasive Computing,Mobile pervasive computing,True,CNPM,CĐTN,,,,SE114,3.0,0.0
+SE417,Đồ án môn học mã nguồn mở,Open Source Project,True,CNPM,ĐA,,SE111,,,2.0,0.0
+SE418,Đồ án môn học chuyên ngành,Specialized Project,False,CNPM,ĐA,,SE112,,,3.0,0.0
+SE501,Thực tập tốt nghiệp,Internship,True,CNPM,TTTN,,,,,2.0,0.0
+SE505,Khóa luận tốt nghiệp,Thesis,True,CNPM,KLTN,,,SE122,,10.0,0.0
+SMET1,Phương pháp NCKH trong tin học,Scientific Research Methodology in Informatics,False,PĐTĐH,ĐC,SMET1,"CS519
+SS005",,,2.0,0.0
+SMET2,Phương pháp luận sáng tạo KH-CN,Scientific Method and Innovation,False,PĐTĐH,ĐC,SMET2,"CS519
+SS005",,,2.0,0.0
+SOCI1,Chủ nghĩa xã hội khoa học,Scientific socialism,False,P.ĐTĐH,ĐC,,,,,3.0,0.0
+SP3724,Kỹ năng giao tiếp,Communication Skills,False,HTTT,ĐC,,,,,3.0,0.0
+SPCH2713,Kỹ năng giao tiếp,Introduction to Speech Communication,True,HTTT,ĐC,,,,,2.0,0.0
+SPCH3723,Tiếng Anh chuyên ngành CNTT,English for computer science,True,HTTT,ĐC,,,ENGL1213,,3.0,0.0
+SPCH3724,Kỹ năng giao tiếp,Communication skills,True,HTTT,ĐC,SP3724,SPCH2713,,,3.0,0.0
+SS001,Những nguyên lý cơ bản của chủ nghĩa Mác Lênin,Fundamental principles of Marxism-Leninism,False,PĐTĐH,ĐC,PHIL1,,,,5.0,0.0
+SS002,Đường lối cách mạng của Đảng CS Việt Nam,The revolutionary way of the communist party of Vietnam,False,PĐTĐH,ĐC,VCPL1,SS010,,,3.0,0.0
+SS003,Tư tưởng Hồ Chí Minh,Ho Chi Minh thought,True,P.ĐTĐH,ĐC,HCMT1,,,,2.0,0.0
+SS004,Kỹ năng nghề nghiệp,Professional skills,True,PĐTĐH,ĐC,,,,,2.0,0.0
+SS005,Phương pháp luận sáng tạo KH-CN,Scientific methodology and innovation,False,PĐTĐH,ĐC,SE336,"SMET1
+SMET2
+CS519",,,2.0,0.0
+SS006,Pháp luật đại cương,Introduction to law,True,P.ĐTĐH,ĐC,,,,,2.0,0.0
+SS007,Triết học Mác – Lênin,Marxist-Leninist philosophy,True,PĐTĐH,ĐC,,,,,3.0,0.0
+SS008,Kinh tế chính trị Mác – Lênin,Marxist Leninist political economy,True,PĐTĐH,ĐC,,,,SS007,2.0,0.0
+SS009,Chủ nghĩa xã hội khoa học,Scientific socialism,True,PĐTĐH,ĐC,,,,SS007,2.0,0.0
+SS010,Lịch sử Đảng Cộng sản Việt Nam,History of Vietnamese communist party,True,PĐTĐH,ĐC,,,,,2.0,0.0
+SSKL1,Kỹ năng mềm,Soft skills,False,P.ĐTĐH,ĐC,,,,,2.0,0.0
+STA01,Xác suất thống kê,Statistics,False,BMAV,ĐC,,MA005,,,3.0,0.0
+STAT11,Xác xuất thống kê,Statistics,False,HTTT,ĐC,,,,,3.0,0.0
+STAT3013,Phân tích thống kê,Intermediate Statistical Analysis,True,HTTT,CS,,,,STAT4033,3.0,0.0
+STAT4033,Thống kê,Statistics,True,HTTT,ĐC,,,,"MATH2153
+MATH2144
+MATH3013",3.0,0.0
+TLH025,Tâm lý học nhân cách,Personality psychology,True,PĐTĐH,CN,,,,,3.0,0.0
+TOEIC 450,TOEIC 450,TOEIC 450,True,TTNN,ĐC,,,,,0.0,0.0
+TOEIC450,TOEIC 450,TOEIC 450,True,TTNN,ĐC,,,,,0.0,0.0
+VCPH1,Lịch sử Đảng CSVN,History of the Communist Party of Vietnam,False,P.ĐTĐH,ĐC,,,,,3.0,0.0
+VCPL1,Đường lối cách mạng của Đảng CSVN,Revolution Directions of Vietnam Communist Party,False,TTNN,ĐC,,SS002,,,3.0,0.0
+WINP1,Lập trình trên Windows,Windows Programming,False,CNPM,ĐC,,IT008,,,3.0,1.0
