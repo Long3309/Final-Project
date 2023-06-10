@@ -20,6 +20,10 @@ def load_data():
     tomtatMH = pd.read_csv("data_script.csv")
     tomtatMH.drop(["STT"],axis = 1,inplace=True)
     st.dataframe(tomtatMH, use_container_width=True)
+    
+    st.header("Các môn học thay thế")
+    thaytheMH = pd.read_pickle("thaytheMH.pkl")
+    st.dataframe(thaytheMH, use_container_width=True)
     return diemThi, danhmucMH, tomtatMH
     
 def main():
