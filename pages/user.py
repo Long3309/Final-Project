@@ -30,3 +30,19 @@ if uploaded_file is not None:
     button = st.button("Tìm môn học")
     if button:
         df[select]
+
+# Tổng quan theo Khoa SV
+tongquan_khoasv = pd.read_pickle("tongquan_khoasv.pkl")
+loai_MH =  st.selectbox("CHỌN LOẠI MÔN HỌC", options=tongquan_khoasv["Loại MH"].unique())
+khoaSV = st.selectbox("CHỌN KHOA SINH VIÊN", options=tongquan_khoasv["KhoaSV"].unique())
+namhoc = st.number_input("CHỌN NĂM HỌC", min_value=2006, max_value=2022, step = 1)
+tongquan_khoasv_selected = tongquan_khoasv.loc[(tongquan_khoasv["Loại MH"] == loai_MH) & (tongquan_khoasv["KhoaSV"] == khoaSV)
+                                                & (tongquan_khoasv["NamHoc"] == namhoc)]
+# tongquan_khoasv_selected.columns = ["MaMH", "count"]
+fig = px.histogram(tongquan_khoasv_selected,
+                   x = "MaMH",
+                   text_auto=True,
+                   title= f"Số lượng sinh viên `{khoaSV}` học các môn `{loai_MH}`")
+fig.update_traces(textposition = "outside")
+fig.update_layout(barmode='stack', xaxis={'categoryorder':'total descending'})
+st.plotly_chart(fig, use_container_width=True)

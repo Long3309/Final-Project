@@ -10,9 +10,10 @@ st.header("CS313 - Final Project App")
 # Load datasets từ local file
 diemThi = pd.read_pickle("diemThi.pkl")
 danhmucMH = pd.read_csv("danhmucMH.csv")
-# danhmucMH.drop(["Unnamed: 0"], axis=1, inplace=True)
 tomtatMH = pd.read_csv("data_script.csv")
 tomtatMH.drop(["STT"],axis = 1,inplace=True)
+tongquan = pd.read_pickle("tongquan.pkl")
+
 # Lấy thông tin mã môn học
 MaMH = diemThi["MaMH"].unique()
 MaMH_Selected = st.selectbox("CHỌN MÃ MÔN HỌC", options=MaMH)
@@ -36,12 +37,17 @@ st.dataframe(df_tomtatMH, use_container_width=True)
 MSSV = diemThi["MSSV"].unique()
 SV = st.selectbox("CHỌN MÃ SỐ SINH VIÊN", options=MSSV)
 diemThi_SV = diemThi.loc[diemThi["MSSV"] == SV]
-diemThi_SV = diemThi_SV.drop(["MSSV"], axis = 1)
-fig = px.bar(diemThi_SV, x = "MaMH", y = "Diem_HP",
-                   color="NamHoc",
-                   title= "Thông tin điểm thi của sinh viên")
-st.plotly_chart(fig,use_container_width=True, theme=None)
-
+col1, col2 = st.columns(2)
+with col1:
+    fig = px.bar(diemThi_SV, x = "MaMH", y = "Diem_HP",
+                    color="NamHoc",
+                    title= "Thông tin điểm thi của sinh viên")
+    st.plotly_chart(fig,use_container_width=True, theme=None)
+with col2:
+    fig = px.histogram(tongquan.loc[tongquan["MSSV"] == SV], x = "Đơn vị quản lý chuyên môn",
+                    color="Đơn vị quản lý chuyên môn",
+                    title= "Thông tin điểm thi của sinh viên")
+    st.plotly_chart(fig,use_container_width=True, theme=None)
 # Phân tích số lượng các mã môn học
 # diemThi['MaMH_tiento'] = diemThi['MaMH'].str.extract(r'([A-Za-z]+)', expand=False)
 # diemThi['MaMH_hauto'] = diemThi['MaMH'].str.extract(r'(\d+)', expand=False)
@@ -56,7 +62,6 @@ st.plotly_chart(fig,use_container_width=True)
 # Danh mục môn học
 # thongtinMH = danhmucMH[["MaMH",'Đơn vị quản lý chuyên môn', 'Loại MH']]
 # tongquan = diemThi.merge(thongtinMH, on = "MaMH")
-tongquan = pd.read_pickle("tongquan.pkl")
 fig = px.histogram(tongquan, x = "Đơn vị quản lý chuyên môn",
                    color='Đơn vị quản lý chuyên môn',
                    title= f"Thông tin các đơn vị quản lý chuyên môn")
