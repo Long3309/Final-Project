@@ -58,5 +58,5 @@ with col1:
 with col2:
     fig = px.histogram(tongquan.loc[tongquan["MSSV"] == SV], x = "Đơn vị quản lý chuyên môn",
                     color="Đơn vị quản lý chuyên môn",
-                    title= "Thông tin điểm thi của sinh viên")
+                    title= "Thông tin số lượng đơn vị quản lý")
     st.plotly_chart(fig,use_container_width=True, theme=None)

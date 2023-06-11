@@ -19,6 +19,7 @@ st.header("CS313 - Final Project App")
 #     MaMH_lst.append(MaMH)
 #     score_lst.append(score)
 st.markdown("""
+            # UPLOAD FILE ĐIỂM
             Người dùng tạo file điểm các môn học của bản thân, dùng widget bên dưới để đưa file Excel hoặc CSV vào hệ thông,
             hệ thông sẽ phân tích thông tin điểm thi của người dùng và xuất ra kết quả môn học dự đoán phù hợp.
             **Tuy nhiên** hiện tại nhóm chưa đóng gói mô hình nhóm sử dụng nên tính năng này chưa đưa ra kết quả dự đoán
@@ -35,6 +36,7 @@ if uploaded_file is not None:
     if button:
         df[select]
 st.markdown("""
+            # ĐỀ XUẤT MÔN HỌC
             Người dùng nhập vào loại của các môn học mà mình quan tâm(môn đại cương (ĐC), môn chuyên ngành(CN) hay môn cơ sở ngành(CSN),...)
             và đồng thời nhập mã khoa mà mình quan tâm đến các môn học đó (KHMT(CS), KTMT(CE),...) cùng năm học muốn xem thông tin
             Hệ thống sẽ trả về danh sách các môn học phù hợp với yêu cầu của người dùng. Từ đó người dùng có thể dùng kết quả này để
