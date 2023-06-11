@@ -16,6 +16,11 @@ tongquan = pd.read_pickle("tongquan.pkl")
 
 # Lấy thông tin mã môn học
 MaMH = diemThi["MaMH"].unique()
+st.markdown("""
+            # TÍNH NĂNG NHẬP MÃ MÔN HỌC
+            Người dùng chọn môn học muốn biết thông tin điểm thi theo từng năm, hệ thống sẽ trả về dữ liệu điểm thi của
+            môn học được lựa chọn và các thông tin liên quan đến môn học ở bên dưới.
+            """, unsafe_allow_html=True)
 MaMH_Selected = st.selectbox("CHỌN MÃ MÔN HỌC", options=MaMH)
 # Các dataframe lấy MaMH là mã môn học được chọn
 df_diemThiMH = diemThi.loc[diemThi["MaMH"] == MaMH_Selected]
@@ -30,10 +35,17 @@ fig = px.histogram(df_diemThiMH, x = "Diem_HP",
 st.plotly_chart(fig,use_container_width=True)
 
 # Hiển thị các data thông tin về môn học được lựa chọn
+st.markdown("### Thông tin về môn học được lựa chọn")
 st.dataframe(df_danhmucMH)
+st.markdown("### Mô tả về môn học được lựa chọn")
 st.dataframe(df_tomtatMH, use_container_width=True)
 
 # Chọn sinh viên để lấy ra điểm thi của sinh viên đó
+st.markdown("""
+            # TÍNH NĂNG NHẬP MSSV
+            Người dùng có thể chọn SV muốn biết thông tin, hệ thống sẽ trả về thông tin điểm thi của sinh viên đó,
+            đồng thời phân tích số lượng môn học mà sinh viên đó đã đăng ký, từ đó đưa ra dự đoán khoa mà sinh viên đó đang trực thuộc
+            """, unsafe_allow_html=True)
 MSSV = diemThi["MSSV"].unique()
 SV = st.selectbox("CHỌN MÃ SỐ SINH VIÊN", options=MSSV)
 diemThi_SV = diemThi.loc[diemThi["MSSV"] == SV]
@@ -48,25 +60,3 @@ with col2:
                     color="Đơn vị quản lý chuyên môn",
                     title= "Thông tin điểm thi của sinh viên")
     st.plotly_chart(fig,use_container_width=True, theme=None)
-# Phân tích số lượng các mã môn học
-# diemThi['MaMH_tiento'] = diemThi['MaMH'].str.extract(r'([A-Za-z]+)', expand=False)
-# diemThi['MaMH_hauto'] = diemThi['MaMH'].str.extract(r'(\d+)', expand=False)
-# diemThi.groupby("MaMH_tiento").size().reset_index()
-MaMH_tt = pd.read_pickle("MaMH_tt.pkl")
-fig = px.bar(MaMH_tt, x = "MaMH_tiento", y = "SoLuong",
-                   color="MaMH_tiento",
-                   title= f"Thông tin các mã môn học")
-fig.update_layout(barmode='stack', xaxis={'categoryorder':'total descending'})
-st.plotly_chart(fig,use_container_width=True)
-
-# Danh mục môn học
-# thongtinMH = danhmucMH[["MaMH",'Đơn vị quản lý chuyên môn', 'Loại MH']]
-# tongquan = diemThi.merge(thongtinMH, on = "MaMH")
-fig = px.histogram(tongquan, x = "Đơn vị quản lý chuyên môn",
-                   color='Đơn vị quản lý chuyên môn',
-                   title= f"Thông tin các đơn vị quản lý chuyên môn")
-st.plotly_chart(fig,use_container_width=True)
-# fig = px.histogram(tongquan, x = "MaMH",
-#                    color='Đơn vị quản lý chuyên môn',
-#                    title= f"Thông tin các đơn vị quản lý chuyên môn")
-# st.plotly_chart(fig,use_container_width=True)

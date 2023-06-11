@@ -24,6 +24,7 @@ def load_data():
     st.header("Các môn học thay thế")
     thaytheMH = pd.read_pickle("thaytheMH.pkl")
     st.dataframe(thaytheMH, use_container_width=True)
+    
     return diemThi, danhmucMH, tomtatMH
     
 def main():

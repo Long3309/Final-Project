@@ -43,3 +43,21 @@ fig = px.bar(tongquan_loaiMH.loc[tongquan_loaiMH["Loại MH"]== loaiMH],
              title = f"Thông tin môn học thuộc Loại `{loaiMH}`")
 st.plotly_chart(fig, use_container_width=True)
 
+# Phân tích số lượng các mã môn học
+# diemThi['MaMH_tiento'] = diemThi['MaMH'].str.extract(r'([A-Za-z]+)', expand=False)
+# diemThi['MaMH_hauto'] = diemThi['MaMH'].str.extract(r'(\d+)', expand=False)
+# diemThi.groupby("MaMH_tiento").size().reset_index()
+MaMH_tt = pd.read_pickle("MaMH_tt.pkl")
+fig = px.bar(MaMH_tt, x = "MaMH_tiento", y = "SoLuong",
+                   color="MaMH_tiento",
+                   title= f"Thông tin các mã môn học")
+fig.update_layout(barmode='stack', xaxis={'categoryorder':'total descending'})
+st.plotly_chart(fig,use_container_width=True)
+
+# Danh mục môn học
+# thongtinMH = danhmucMH[["MaMH",'Đơn vị quản lý chuyên môn', 'Loại MH']]
+# tongquan = diemThi.merge(thongtinMH, on = "MaMH")
+fig = px.histogram(tongquan, x = "Đơn vị quản lý chuyên môn",
+                   color='Đơn vị quản lý chuyên môn',
+                   title= f"Thông tin các đơn vị quản lý chuyên môn")
+st.plotly_chart(fig,use_container_width=True)
